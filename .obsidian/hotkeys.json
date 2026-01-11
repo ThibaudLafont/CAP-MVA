@@ -1,11 +1,19 @@
 {
-  "templater-obsidian:create-new-note-from-template": [
+  "file-explorer:new-file": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "quickadd:runQuickAdd": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "N"
     }
-  ],
-  "file-explorer:new-file": []
+  ]
 }
