@@ -1,4 +1,7 @@
 [
   "quickadd",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-pandoc-reference-list",
+  "obsidian-pandoc"
 ]
