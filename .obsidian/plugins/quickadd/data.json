@@ -121,6 +121,36 @@
       "setFileExistsBehavior": false
     },
     {
+      "id": "cf9fb41a-7c0d-4310-9371-f86e0c44be8f",
+      "name": "FICHE SYSTÈME",
+      "type": "Template",
+      "command": false,
+      "templatePath": "00_ASSETS/TEMPLATES/FICHE SYSTÈME.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "SYS - system"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50_SYSTÈMES"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "c09d846d-ce51-44b3-99ac-d40230f21046",
       "name": "ANKI",
       "type": "Template",
