@@ -10,7 +10,15 @@
       "format": "pandoc"
     }
   ],
-  "exportFormats": [],
+  "exportFormats": [
+    {
+      "name": "Import images",
+      "outputPathTemplate": "00_ASSETS/ZOTERO/NOTES/{{title}}.md",
+      "imageOutputPathTemplate": "00_ASSETS/ZOTERO/IMAGES/{{dateAdded | format(\"YYYYMMDD_HHmmss\")}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "00_ASSETS/TEMPLATES/ZOTERO IMPORT NOTES.md"
+    }
+  ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": false,
   "whichNotesToOpenAfterImport": "first-imported-note",
