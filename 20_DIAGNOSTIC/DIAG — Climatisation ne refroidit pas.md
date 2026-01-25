@@ -21,5 +21,5 @@ source: zotero
 - Si elle coupe prématurément → pas de froid.
 ## Décisions possibles
 - pression hors plage → contrôle d’étanchéité
-- pressostat HS → [[PROC — Remplacement du pressostat de climatisation]]
+- pressostat HS → [[30_PROCÉDURES/PROC — Remplacement du pressostat — climatisation|PROC — Remplacement du pressostat — climatisation]]
 - compresseur non commandé → contrôle électrique

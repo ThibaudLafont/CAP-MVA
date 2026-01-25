@@ -14,7 +14,7 @@
     {
       "name": "Import images",
       "outputPathTemplate": "00_ASSETS/ZOTERO/NOTES/{{title}}.md",
-      "imageOutputPathTemplate": "00_ASSETS/ZOTERO/IMAGES/{{dateAdded | format(\"YYYYMMDD_HHmmss\")}}/",
+      "imageOutputPathTemplate": "00_ASSETS/IMAGES/ZOTERO/{{dateAdded | format(\"YYYYMMDD_HHmmss\")}}/",
       "imageBaseNameTemplate": "{{citekey}}",
       "templatePath": "00_ASSETS/TEMPLATES/ZOTERO IMPORT NOTES.md"
     }

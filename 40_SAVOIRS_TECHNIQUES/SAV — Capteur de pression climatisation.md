@@ -6,8 +6,14 @@ source: zotero
 ---
 ## Fonction
 - Mesurer la pression et piloter compresseur + ventilateur.
-## Valeurs
+## Composition
+-
+## Principe de fonctionnement
+-
+## Valeurs caractéristiques
 - < 2 bar : arrêt
 - > 27 bar : arrêt
-## Bibliographie
+## À savoir par cœur
+-
+## Références
 -

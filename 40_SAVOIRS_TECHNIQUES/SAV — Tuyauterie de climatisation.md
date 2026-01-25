@@ -22,4 +22,4 @@ source: zotero
 - rôle des joints dans l’étanchéité
 - importance de l’isolation et de la fixation
 ## Références
-- 
+- @ConfortSecuM1P301

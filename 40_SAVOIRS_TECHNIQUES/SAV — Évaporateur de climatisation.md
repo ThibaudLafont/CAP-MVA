@@ -6,7 +6,13 @@ source: zotero
 ---
 ## Fonction
 - Refroidir et assécher l’air de l’habitacle.
-## Principe
-- Échange thermique + condensation de l’humidité.
-## Bibliographie
+## Composition
 -
+## Principe de fonctionnement
+- Échange thermique + condensation de l’humidité.
+## Valeurs caractéristiques
+-
+## À savoir par cœur
+-
+## Références
+- @ConfortSecuM1P301
