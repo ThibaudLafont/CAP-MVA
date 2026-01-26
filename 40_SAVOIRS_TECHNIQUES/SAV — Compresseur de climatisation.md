@@ -11,9 +11,9 @@ source: zotero
 - clapets à lames
 - embrayage électromagnétique
 - poulie et courroie
-[[00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-3-x53-y290.png|Schéma compresseur]]
 ## Principe de fonctionnement
 - Compression mécanique entraînée par le moteur
+![[00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-3-x289-y197.png]]
 ## Valeurs caractéristiques
 -
 ## À savoir par cœur

@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "promptDelete": false
+  "promptDelete": true,
+  "showUnsupportedFiles": true
 }

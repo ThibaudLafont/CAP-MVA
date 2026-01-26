@@ -1,0 +1,17 @@
+Q: Quel est le rôle de la fiche « Organes du système de climatisation » ?
+R: Lister les composants du système afin de pouvoir les identifier et ne rien oublier.
+
+Q: Quels sont les organes principaux du système de climatisation ?
+R: Compresseur, condenseur, bouteille déshydratante, détendeur, évaporateur, tuyauteries.
+
+Q: Quels sont les organes de régulation et de sécurité du système de climatisation ?
+R: Pressostat, capteur de pression, sonde d’évaporateur.
+
+Q: Quel organe assure le refroidissement du condenseur ?
+R: Le ventilateur de condenseur (GMV).
+
+Q: Quels éléments pilotent le système de climatisation ?
+R: La commande habitacle et le calculateur.
+
+Q: Quelles sont les deux parties du circuit de climatisation ?
+R: Le circuit haute pression (HP) et le circuit basse pression (BP).
