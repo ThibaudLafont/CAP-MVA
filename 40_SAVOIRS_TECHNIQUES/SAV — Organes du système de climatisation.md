@@ -19,7 +19,7 @@ source: zotero
 - sonde d’évaporateur
 - ventilateur de condenseur (GMV)
 - commande habitacle / calculateur
-[[00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-3-x53-y290.png|Schéma système]]
+[[00_ASSETS/IMAGES/ZOTERO/20260122_172334/ConfortSecuM1P301-3-x53-y290.png|Schéma ]]
 ## Principe de fonctionnement
 - Chaque organe assure une étape du cycle frigorifique et de la régulation.
 ## Valeurs caractéristiques

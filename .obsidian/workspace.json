@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cf9c17180910fb37",
+        "id": "fd1978703c092d4a",
         "type": "tabs",
         "children": [
           {
-            "id": "c68a59fbe20a9e58",
+            "id": "fff4ecb4592f9905",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — Organes du système de climatisation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SAV — Organes du système de climatisation"
+              "title": "New tab"
             }
           }
         ]
@@ -207,10 +203,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c68a59fbe20a9e58",
+  "active": "fff4ecb4592f9905",
   "lastOpenFiles": [
+    "20_DIAGNOSTIC/DIAG — Pas de chauffage habitacle.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pompe à chaleur (clim réversible).md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Chauffage autonome.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Bloc chauffage.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Commande de chauffage.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Radiateur de chauffage.md",
+    "50_SYSTÈMES/SYS - Chauffage habitacle.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Organes du système de climatisation.md",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-undefined-x53-y407.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-7-x57-y498.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-7-x54-y100.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-6-x84-y331.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-5-x56-y382.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-5-x291-y125.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-5-x288-y546.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-4-x83-y471.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-4-x320-y149.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-3-x56-y268.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336",
+    "00_ASSETS/ZOTERO/NOTES/ConfortSécu — M1 — P3.03 — ABS antiblocage de roue - rôles, fonctionnement et composition.md",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172335",
+    "00_ASSETS/IMAGES/ZOTERO",
+    "00_ASSETS/ZOTERO/NOTES/ConfortSécu — M1 — P3.02 — Rôles et fonctionnement du chauffage.md",
+    "50_SYSTÈMES/SYS — Climatisation.md",
+    "50_SYSTÈMES/SYS — Allumage.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Compresseur de climatisation.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — objet.md",
     "00_ASSETS/ZOTERO/NOTES/ConfortSécu — M1 — P3.01 — Rôles, fonctionnement et composition de la climatisation.md",
     "00_ASSETS/SCRIPTS/ANKI/to_import.md",
     "00_ASSETS/SCRIPTS/ANKI/txt.txt.sb-1bb098b6-WXLc4a",
@@ -221,13 +241,8 @@
     "00_ASSETS/SCRIPTS/ANKI",
     "00_ASSETS/SCRIPTS/README_ANKICONNECT.md",
     "00_ASSETS/SCRIPTS/IMPORT SCRIPT.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Organes du système de climatisation.md",
     "00_ASSETS/SCRIPTS/ANKI/VAULT_CAP/txt.txt",
-    "00_ASSETS/SCRIPTS/ANKI/VAULT_CAP/anki_import",
-    "00_ASSETS/SCRIPTS/ANKI/VAULT_CAP",
-    "00_ASSETS/SCRIPTS/ANKI",
     "90_ANKI_SOURCES/Climatisation.md",
-    "50_SYSTÈMES/SYS — Allumage.md",
     "00_ASSETS/ZOTERO/ZOTERO - CODES COULEUR.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Tuyauterie de climatisation.md",
     "20_DIAGNOSTIC/DIAG — Climatisation ne refroidit pas.md",
@@ -235,25 +250,6 @@
     "00_ASSETS/TEMPLATES/FICHE SAVOIR TECHNIQUE.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Sonde évaporateur de climatisation.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Pressostat de climatisation.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Évaporateur de climatisation.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Détendeur de climatisation.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Bouteille de déshydratation de climatisation.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Condenseur de climatisation.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Fluide frigorigène.md",
-    "50_SYSTÈMES/SYS — Climatisation.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Types de bobines d’allumage.md",
-    "30_PROCÉDURES/PROC — Remplacement du pressostat — climatisation.md",
-    "00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-3-x53-y290.png",
-    "00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-undefined-x52-y263.png",
-    "00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-9-x51-y224.png",
-    "00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-9-x289-y251.png",
-    "00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-8-x80-y125.png",
-    "00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-7-x55-y470.png",
-    "00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-6-x79-y305.png",
-    "00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-5-x54-y100.png",
-    "00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-5-x51-y454.png",
-    "00_ASSETS/IMAGES/20260122_172334/ConfortSecuM1P301-5-x290-y162.png",
-    "00_ASSETS/TEMPLATES/ZOTERO IMPORT NOTES.md",
     "Untitled.canvas"
   ]
 }
