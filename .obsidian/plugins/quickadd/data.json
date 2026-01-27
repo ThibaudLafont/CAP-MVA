@@ -31,6 +31,36 @@
       "setFileExistsBehavior": false
     },
     {
+      "id": "9aea0ec0-4cfa-494a-8d47-61bcb37318fa",
+      "name": "FICHE LECTURE",
+      "type": "Template",
+      "command": false,
+      "templatePath": "00_ASSETS/TEMPLATES/FICHE LECTURE.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "00_ASSETS/ZOTERO/FICHES"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "9cd984e2-da8f-4fe9-9e2a-3b39ec574069",
       "name": "FICHE MAINTENANCE",
       "type": "Template",
