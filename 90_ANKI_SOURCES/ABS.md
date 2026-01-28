@@ -1,4 +1,3 @@
-
 Q: Quel est le rôle de l’ABS ?
 R: Empêcher le blocage des roues, conserver l’adhérence, conserver la dirigibilité
 
