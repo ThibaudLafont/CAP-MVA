@@ -5,15 +5,15 @@ importance: haute
 source: zotero
 ---
 ## Fonction
-- Empêcher le gel de l’évaporateur.
+Évite les coups de béliers, diminue les temps de réponse
 ## Composition
 -
 ## Principe de fonctionnement
 -
-- Résistance variable selon température (~2 °C seuil).
 ## Valeurs caractéristiques
--
+- Un par diagonale
 ## À savoir par cœur
--
+- fonction
+- un par diagonale
 ## Références
-- @ConfortSecuM1P301
+- @ConfortSecuM1P303

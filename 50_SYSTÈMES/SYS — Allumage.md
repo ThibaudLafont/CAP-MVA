@@ -4,10 +4,10 @@ type: systeme
 ## Rôle du système
 - Déclencher la combustion du mélange air/carburant au moment opportun.
 ## Organes impliqués
-- [[40_SAVOIRS_TECHNIQUES/SAV — Bobine d'allumage|SAV — Bobine d'allumage]]
-- [[SAV — Types de bobines d’allumage]]
-- [[SAV — Faisceau d’allumage]]
-- [[40_SAVOIRS_TECHNIQUES/SAV — Bougies d'allumage|SAV — Bougies d'allumage]]
+- [[40_SAVOIRS_TECHNIQUES/SAV — Allumage — Bobine d'allumage|SAV — Allumage — Bobine d'allumage]]
+- [[40_SAVOIRS_TECHNIQUES/SAV — Alllumage — Types de bobines d’allumage]]
+- [[40_SAVOIRS_TECHNIQUES/SAV — Allumage — Faisceau d’allumage]]
+- [[40_SAVOIRS_TECHNIQUES/SAV — Allumage — Bougies d'allumage|SAV — Allumage — Bougies d'allumage]]
 - capteur de position vilebrequin
 - calculateur moteur
 ## Parcours fonctionnel simplifié

@@ -11,7 +11,7 @@ source: zotero
 	- trajets courts fréquents
 	- démarrages à froid répétés
 ## Opérations à effectuer
-- Dépose des [[40_SAVOIRS_TECHNIQUES/SAV — Bougies d'allumage|bougies d'allumage]]
+- Dépose des [[40_SAVOIRS_TECHNIQUES/SAV — Allumage — Bougies d'allumage|bougies d'allumage]]
 - Contrôle de l’état général 
 - Remplacement par un jeu complet.
 ## Points de vigilance
