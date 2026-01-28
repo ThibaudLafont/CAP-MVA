@@ -1,5 +1,14 @@
 {
-  "templater-obsidian:create-new-note-from-template": [
+  "file-explorer:new-file": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "quickadd:runQuickAdd": [
     {
       "modifiers": [
         "Mod"
@@ -7,5 +16,21 @@
       "key": "N"
     }
   ],
-  "file-explorer:new-file": []
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
 }

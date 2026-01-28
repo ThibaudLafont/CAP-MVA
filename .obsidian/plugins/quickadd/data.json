@@ -1,18 +1,200 @@
 {
   "choices": [
     {
-      "id": "7407a89e-d61d-4afb-be6f-0e10b46b4c9b",
-      "name": "Composant",
+      "id": "433a9ff7-91c2-472a-9ad1-3597619f18db",
+      "name": "FICHE DIAGNOSTIC",
       "type": "Template",
       "command": false,
-      "templatePath": "Templates/Template.md",
+      "templatePath": "00_ASSETS/TEMPLATES/FICHE DIAGNOSTIC.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "DIAG — symptome_principal"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "20_DIAGNOSTIC"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "9aea0ec0-4cfa-494a-8d47-61bcb37318fa",
+      "name": "FICHE LECTURE",
+      "type": "Template",
+      "command": false,
+      "templatePath": "00_ASSETS/TEMPLATES/FICHE LECTURE.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "00_ASSETS/ZOTERO/FICHES"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "9cd984e2-da8f-4fe9-9e2a-3b39ec574069",
+      "name": "FICHE MAINTENANCE",
+      "type": "Template",
+      "command": false,
+      "templatePath": "00_ASSETS/TEMPLATES/FICHE MAINTENANCE.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "MAINT — Organe — Contexte"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "10_MAINTENANCE"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "c45d5355-d0f6-4d5c-88f1-0e9f3a5b6c74",
+      "name": "FICHE PROCÉDURE",
+      "type": "Template",
+      "command": false,
+      "templatePath": "00_ASSETS/TEMPLATES/FICHE PROCÉDURE.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "PROC — Test_ou_repa — organ"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "30_PROCÉDURES"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "37ed7617-8353-473a-9423-3d083c4f5fa0",
+      "name": "FICHE SAVOIR TECHNIQUE",
+      "type": "Template",
+      "command": false,
+      "templatePath": "00_ASSETS/TEMPLATES/FICHE SAVOIR TECHNIQUE.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "SAV — system — objet"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "40_SAVOIRS_TECHNIQUES"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "cf9fb41a-7c0d-4310-9371-f86e0c44be8f",
+      "name": "FICHE SYSTÈME",
+      "type": "Template",
+      "command": false,
+      "templatePath": "00_ASSETS/TEMPLATES/FICHE SYSTÈME.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "SYS — system"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50_SYSTÈMES"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "c09d846d-ce51-44b3-99ac-d40230f21046",
+      "name": "ANKI",
+      "type": "Template",
+      "command": false,
+      "templatePath": "00_ASSETS/TEMPLATES/FICHE ANKI.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "ANKI — objet"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "90_ANKI_SOURCES"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
