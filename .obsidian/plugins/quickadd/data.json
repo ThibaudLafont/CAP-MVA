@@ -151,6 +151,34 @@
       "setFileExistsBehavior": false
     },
     {
+      "id": "ffd806ec-4520-4e34-8773-5e9266fc830a",
+      "name": "FICHE SAV CAPTEUR",
+      "type": "Template",
+      "command": false,
+      "templatePath": "00_ASSETS/TEMPLATES/FICHE SAV CAPTEUR.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "SAV — Capteur — nom_capteur"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "cf9fb41a-7c0d-4310-9371-f86e0c44be8f",
       "name": "FICHE SYSTÈME",
       "type": "Template",

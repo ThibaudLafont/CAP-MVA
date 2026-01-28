@@ -14,67 +14,238 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_ANKI_SOURCES/Pression d'huile.md",
+                "file": "00_ASSETS/ZOTERO/FICHES/Système de pollution.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Pression d'huile"
+              "title": "Système de pollution"
             }
           },
           {
-            "id": "eaaeef0f3d322a64",
+            "id": "d226f31824b013e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_ASSETS/ZOTERO/FICHES/Pression d'huile.md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Température LDR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pression d'huile"
+              "title": "SAV — Capteur — Température LDR"
             }
           },
           {
-            "id": "c4bf2e5d2cb6ddb1",
+            "id": "a1f53577ffcde0e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50_SYSTÈMES/SYS — Climatisation.md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SYS — Climatisation"
+              "title": "SAV — Capteur — Sonde à oxygène"
+            }
+          },
+          {
+            "id": "906a663a12426013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_DIAGNOSTIC/DIAG — Voyant pollution allumé.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DIAG — Voyant pollution allumé"
+            }
+          },
+          {
+            "id": "6fc0a793fe282887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50_SYSTÈMES/SYS — Postcombution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SYS — Postcombution"
+            }
+          },
+          {
+            "id": "7fb9fa916ea0c527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_ASSETS/TEMPLATES/FICHE SAV CAPTEUR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FICHE SAV CAPTEUR"
+            }
+          },
+          {
+            "id": "65d1c04aca8409e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_ASSETS/TEMPLATES/FICHE SAV CAPTEUR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FICHE SAV CAPTEUR"
+            }
+          },
+          {
+            "id": "cf238b05bcb6a24b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Voyant EPC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — Pollution — Voyant EPC"
+            }
+          },
+          {
+            "id": "7aca5629ff549241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAV — Capteur — Sonde de pression différentielle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — Capteur — Sonde de pression différentielle"
+            }
+          },
+          {
+            "id": "3c595406bccb4d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Vanne EGR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — Pollution — Vanne EGR"
+            }
+          },
+          {
+            "id": "ee6e5a9be5a8a9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50_SYSTÈMES/SYS — Pollution et antipollution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SYS — Pollution et antipollution"
+            }
+          },
+          {
+            "id": "def38ea6b6834147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_DIAGNOSTIC/DIAG — Voyant pollution allumé.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DIAG — Voyant pollution allumé"
+            }
+          },
+          {
+            "id": "4490189674f8b39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — DTC, Diagnostic Trouble Codes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — 00 — DTC, Diagnostic Trouble Codes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 11
       },
       {
-        "id": "ae94acde80e9a910",
+        "id": "2f2672de448d219c",
         "type": "tabs",
         "children": [
           {
-            "id": "c232fe6752a19f96",
+            "id": "e3aa7bc3c4ff6926",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_ANKI_SOURCES/Pression d'huile.md",
+                "file": "00_ASSETS/ZOTERO/FICHES/Système de pollution.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Pression d'huile"
+              "title": "Système de pollution"
+            }
+          },
+          {
+            "id": "5a42242c9bf3b6bc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_ANKI_SOURCES/Pollution.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Pollution"
+            }
+          },
+          {
+            "id": "60c3c33e4a5ffa5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50_SYSTÈMES/SYS — Postcombution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SYS — Postcombution"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,54 +431,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c232fe6752a19f96",
+  "active": "def38ea6b6834147",
   "lastOpenFiles": [
-    "50_SYSTÈMES/SYS — Climatisation.md",
-    "30_PROCÉDURES/PROC — Moteur — Contrôle pression d’huile.md",
-    "90_ANKI_SOURCES/Pression d'huile.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Moteur — Pression d'huile.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Ordre de grandeur des forces en collision.md",
-    "00_ASSETS/ZOTERO/FICHES/Pression d'huile.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — DTC, Diagnostic Trouble Codes.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène en aval.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — ODB et EODB.md",
+    "50_SYSTÈMES/SYS — Postcombution.md",
+    "00_ASSETS/ZOTERO/FICHES/Système de pollution.md",
+    "90_ANKI_SOURCES/Pollution.md",
+    "50_SYSTÈMES/SYS — Pollution et antipollution.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Vanne EGR.md",
+    "SAV — Capteur — Sonde de pression différentielle.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Voyant EPC.md",
+    "00_ASSETS/TEMPLATES/FICHE SAV CAPTEUR.md",
+    "00_ASSETS/TEMPLATES/FICHE SAVOIR TECHNIQUE.md",
     "00_ASSETS/TEMPLATES/FICHE DIAGNOSTIC.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Voyant MIL.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène.md",
+    "20_DIAGNOSTIC/DIAG — Voyant pollution allumé.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Température LDR.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Pression de l'air.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur PMH.md",
+    "00_ASSETS/ZOTERO/FICHES/ABS.md",
+    "Templates/Direction.md",
     "90_ANKI_SOURCES/Pyrotechnie.md",
+    "90_ANKI_SOURCES/Pression d'huile.md",
+    "90_ANKI_SOURCES/Climatisation.md",
     "90_ANKI_SOURCES/ABS.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Sécurité active.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Calculateur.md",
+    "90_ANKI_SOURCES",
     "50_SYSTÈMES/SYS — Pyrotechnie.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Prétentionneur de ceinture (pyrotechnique).md",
-    "50_SYSTÈMES/SYS — Ceinture de sécurité.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Sécurité — Ceinture de sécurité.md",
-    "00_ASSETS/ZOTERO/FICHES/Éléments pyrotechnique.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Prétentionneur de ceinture (mécanique).md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Prétentionneur d'enrouleur.md",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-3-x291-y304.png",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Règles de sécurité systèmes pyrotechniques.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Capteurs.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Aibarg.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Sécurité passive.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — ABS — Électrovanne.md",
-    "00_ASSETS/ZOTERO/NOTES/ConfortSécu — M1 — P3.04 — Éléments pyrotechniques du véhicule.md",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-5-x55-y380.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-3-x53-y393.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-undefined-x54-y98.png",
-    "50_SYSTÈMES/SYS — ABS.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — ABS — Pompe de refoulement.md",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-9-x56-y241.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-8-x85-y242.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-6-x84-y331.png",
+    "50_SYSTÈMES",
+    "40_SAVOIRS_TECHNIQUES",
+    "30_PROCÉDURES",
+    "20_DIAGNOSTIC",
+    "10_MAINTENANCE",
+    "00_ASSETS/ZOTERO/zotero.json",
     "00_ASSETS/ZOTERO/zotero-Skill & You.json",
     "00_ASSETS/ZOTERO/zotero-Manuels constructeur.json",
-    "00_ASSETS/ZOTERO/FICHES",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-3-x56-y268.png",
+    "00_ASSETS/ZOTERO/NOTES",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-undefined-x54-y98.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-5-x55-y380.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-3-x53-y393.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-3-x291-y304.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-undefined-x53-y407.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-9-x56-y241.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-8-x85-y242.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-7-x57-y498.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172335",
-    "00_ASSETS/IMAGES/ZOTERO",
-    "00_ASSETS/SCRIPTS/ANKI/txt.txt.sb-1bb098b6-WXLc4a",
-    "00_ASSETS/SCRIPTS/ANKI/txt.txt",
-    "00_ASSETS/SCRIPTS/ANKI/anki_import",
-    "00_ASSETS/SCRIPTS/txt.txt",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-7-x54-y100.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-6-x84-y331.png",
     "Untitled.canvas"
   ]
 }
