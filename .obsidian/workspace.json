@@ -4,41 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1614cf8c700bb4d7",
+        "id": "73f5272abaa57952",
         "type": "tabs",
         "children": [
           {
-            "id": "e715a735edcb58d3",
+            "id": "2cd47229d1388942",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systèmes du véhicule.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Systèmes du véhicule"
+              "title": "New tab"
             }
           }
         ]
       },
       {
-        "id": "f1d2c0f1b9d4c5e4",
+        "id": "ae94acde80e9a910",
         "type": "tabs",
         "children": [
           {
-            "id": "b28f7f013714f813",
+            "id": "c232fe6752a19f96",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pneus.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Pneus"
+              "title": "New tab"
             }
           }
         ]
@@ -73,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:txt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 364.5
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -184,8 +180,31 @@
               "icon": "lucide-list",
               "title": "Outline of Template"
             }
+          },
+          {
+            "id": "65174169e129b473",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          },
+          {
+            "id": "e07d29af05615fc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "00_ASSETS/SCRIPTS/IMPORT SCRIPT.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for IMPORT SCRIPT"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,17 +223,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b28f7f013714f813",
+  "active": "c232fe6752a19f96",
   "lastOpenFiles": [
-    "Templates/Direction.md",
-    "Pneus.md",
-    "Templates/Template.md",
-    "Systèmes du véhicule.md",
+    "90_ANKI_SOURCES/Pression d'huile.md",
     "Volant.md",
-    "Direction",
-    "Système principal.md",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Templates"
+    "Templates/Template.md",
+    "Templates/Direction.md",
+    "Templates",
+    "Systèmes du véhicule.md",
+    "Pneus.md",
+    "50_SYSTÈMES/SYS — Climatisation.md",
+    "30_PROCÉDURES/PROC — Moteur — Contrôle pression d’huile.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Moteur — Pression d'huile.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Ordre de grandeur des forces en collision.md",
+    "00_ASSETS/ZOTERO/FICHES/Pression d'huile.md",
+    "00_ASSETS/TEMPLATES/FICHE DIAGNOSTIC.md",
+    "90_ANKI_SOURCES/Pyrotechnie.md",
+    "90_ANKI_SOURCES/ABS.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Sécurité active.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Calculateur.md",
+    "50_SYSTÈMES/SYS — Pyrotechnie.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Prétentionneur de ceinture (pyrotechnique).md",
+    "50_SYSTÈMES/SYS — Ceinture de sécurité.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Sécurité — Ceinture de sécurité.md",
+    "00_ASSETS/ZOTERO/FICHES/Éléments pyrotechnique.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Prétentionneur de ceinture (mécanique).md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Prétentionneur d'enrouleur.md",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-3-x291-y304.png",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Règles de sécurité systèmes pyrotechniques.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Capteurs.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Aibarg.md",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-5-x55-y380.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-3-x53-y393.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-undefined-x54-y98.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-9-x56-y241.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-8-x85-y242.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-6-x84-y331.png",
+    "00_ASSETS/ZOTERO/zotero-Skill & You.json",
+    "00_ASSETS/ZOTERO/zotero-Manuels constructeur.json",
+    "00_ASSETS/ZOTERO/FICHES",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-3-x56-y268.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-undefined-x53-y407.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-7-x57-y498.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172336",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172335",
+    "00_ASSETS/IMAGES/ZOTERO",
+    "00_ASSETS/SCRIPTS/ANKI/txt.txt.sb-1bb098b6-WXLc4a",
+    "00_ASSETS/SCRIPTS/ANKI/txt.txt",
+    "00_ASSETS/SCRIPTS/ANKI/anki_import",
+    "Untitled.canvas"
   ]
 }
