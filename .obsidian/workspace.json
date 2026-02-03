@@ -4,35 +4,103 @@
     "type": "split",
     "children": [
       {
-        "id": "3a950e5bfcd28c65",
+        "id": "a95033aa7006c473",
         "type": "tabs",
         "children": [
           {
-            "id": "71e2b877b5ce198f",
+            "id": "f0ba03854a563c8c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50_SYSTÈMES/SYS — Pollution et antipollution.md",
+                "file": "90_ANKI_SOURCES/Relais.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "SYS — Pollution et antipollution"
+              "title": "Relais"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a6946e64831eabb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc17379ae67221e5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_ASSETS/ZOTERO/FICHES/Relais.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Relais"
             }
           },
           {
-            "id": "f59ae800bd76514f",
+            "id": "38bf990f5c7a3795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — Moteur — Joint SPI de vilebrequin.md",
+                "file": "30_PROCÉDURES/PROC — Électricité — Tester un relais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — Moteur — Joint SPI de vilebrequin"
+              "title": "PROC — Électricité — Tester un relais"
+            }
+          },
+          {
+            "id": "c370b6b24ee27e90",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_ANKI_SOURCES/Relais.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Relais"
+            }
+          },
+          {
+            "id": "aa786131eec35563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Électricité — Relais 4 broches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — Électricité — Relais 4 broches"
+            }
+          },
+          {
+            "id": "ddf363a0e7d31de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Électricité — Relais 5 broches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — Électricité — Relais 5 broches"
             }
           }
         ],
@@ -93,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 200
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -222,18 +290,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f59ae800bd76514f",
+  "active": "38bf990f5c7a3795",
   "lastOpenFiles": [
+    "40_SAVOIRS_TECHNIQUES/SAV — Électricité — Relais 5 broches.md",
+    "30_PROCÉDURES/PROC — Électricité — Tester un relais.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Électricité — Relais 4 broches.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Électricité — Relais.md",
+    "00_ASSETS/ZOTERO/FICHES/Relais.md",
+    "90_ANKI_SOURCES/Relais.md",
+    "00_ASSETS/ZOTERO/NOTES/SysÉlec — M2 — P3.03 — Contrôle d'un relais partie 1.md",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-undefined-x56-y406.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-undefined-x54-y215.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-8-x86-y460.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-7-x54-y99.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-5-x53-y408.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-5-x51-y112.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-4-x320-y549.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-4-x319-y160.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-3-x56-y507.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-3-x52-y202.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de pression différentielle.md",
     "50_SYSTÈMES/SYS — Pollution et antipollution.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Moteur — Joint SPI de vilebrequin.md",
     "50_SYSTÈMES/SYS — Postcombution.md",
-    "SAV — Capteur — Sonde de pression différentielle.md",
     "20_DIAGNOSTIC/DIAG — Voyant pollution allumé.md",
     "00_ASSETS/ZOTERO/ZOTERO - CODES COULEUR.md",
     "90_ANKI_SOURCES/Pollution.md",
     "00_ASSETS/ZOTERO/FICHES/Système de pollution.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — DTC, Diagnostic Trouble Codes.md",
-    "90_ANKI_SOURCES/Relais.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Vanne EGR.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Voyant EPC.md",
     "00_ASSETS/TEMPLATES/FICHE SAV CAPTEUR.md",
@@ -244,12 +329,6 @@
     "00_ASSETS/TEMPLATES/FICHE SAVOIR TECHNIQUE.md",
     "00_ASSETS/TEMPLATES/FICHE DIAGNOSTIC.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Voyant MIL.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Pression de l'air.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur PMH.md",
-    "00_ASSETS/ZOTERO/FICHES/ABS.md",
-    "Templates/Direction.md",
-    "90_ANKI_SOURCES/Pyrotechnie.md",
-    "90_ANKI_SOURCES/Pression d'huile.md",
     "90_ANKI_SOURCES",
     "50_SYSTÈMES",
     "40_SAVOIRS_TECHNIQUES",
@@ -259,17 +338,6 @@
     "00_ASSETS/ZOTERO/zotero.json",
     "00_ASSETS/ZOTERO/zotero-Skill & You.json",
     "00_ASSETS/ZOTERO/zotero-Manuels constructeur.json",
-    "00_ASSETS/ZOTERO/NOTES",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-undefined-x54-y98.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-5-x55-y380.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-3-x53-y393.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P304-3-x291-y304.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-undefined-x53-y407.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-9-x56-y241.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-8-x85-y242.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-7-x57-y498.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-7-x54-y100.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172336/ConfortSecuM1P303-6-x84-y331.png",
     "Untitled.canvas"
   ]
 }
