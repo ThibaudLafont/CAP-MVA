@@ -13,14 +13,11 @@ R: Sur les moteurs diesel
 Q: Quel problème indique un code d'erreur DTC P0xx ? 
 R: système de propulsion (moteur, transmission)
 
-
 Q: Quel problème indique un code d'erreur DTC C0xx ? 
 R: système de propulsion (moteur, transmission)
 
-
 Q: Quel problème indique un code d'erreur DTC B0xx ? 
 R: châssis
-
 
 Q: Quel problème indique un code d'erreur DTC U0xx ? 
 R: carrosserie
