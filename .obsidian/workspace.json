@@ -132,7 +132,8 @@
               "title": "Capteurs 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -318,11 +319,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1791c541325f304d",
+  "active": "d9bc6a02f93418f3",
   "lastOpenFiles": [
+    "00_ASSETS/ZOTERO/FICHES/Capteurs Controle.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène.md",
     "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (amont).md",
-    "00_ASSETS/ZOTERO/FICHES/Capteurs Controle.md",
     "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (aval).md",
     "30_PROCÉDURES/PROC — Électricité — Débitmètre.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygèn.md",
