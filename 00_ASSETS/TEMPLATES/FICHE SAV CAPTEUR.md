@@ -6,15 +6,19 @@ source: zotero
 ---
 ## Fonction
 -
+## Applications
+-
 ## Composition
 -
 ## Principe de fonctionnement
 -
-## Risques en cas de mal-fonction
+## Signaux typiques
 -
 ## Valeurs caractéristiques
 -
 ## À savoir par cœur
+-
+## Risques en cas de mal-fonction
 -
 ## Références
 -

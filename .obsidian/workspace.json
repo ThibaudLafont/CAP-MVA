@@ -22,6 +22,115 @@
               "icon": "lucide-file",
               "title": "Capteurs Controle"
             }
+          },
+          {
+            "id": "a6aa812e9fab6f79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Potentiomètre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — Capteur — Potentiomètre"
+            }
+          },
+          {
+            "id": "576e4f24e234f0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_PROCÉDURES/PROC — Électricité — Capteur Hall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROC — Électricité — Capteur Hall"
+            }
+          },
+          {
+            "id": "6e042ada725d4206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — Capteur — Sonde à oxygène"
+            }
+          },
+          {
+            "id": "39dd6a86ab6829f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (amont).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROC — Électricité — Sonde à oxygène (amont)"
+            }
+          },
+          {
+            "id": "43c2326c89b35242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (aval).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROC — Électricité — Sonde à oxygène (aval)"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "63c16dbb07d2e59b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1791c541325f304d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_ASSETS/ZOTERO/FICHES/Capteurs Controle.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Capteurs Controle"
+            }
+          },
+          {
+            "id": "d9bc6a02f93418f3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_ANKI_SOURCES/Capteurs 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Capteurs 2"
+            }
           }
         ]
       }
@@ -80,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 449.5
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -209,45 +318,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3cf8da34683993ae",
+  "active": "1791c541325f304d",
   "lastOpenFiles": [
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène.md",
+    "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (amont).md",
+    "00_ASSETS/ZOTERO/FICHES/Capteurs Controle.md",
+    "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (aval).md",
+    "30_PROCÉDURES/PROC — Électricité — Débitmètre.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygèn.md",
+    "00_ASSETS/TEMPLATES/FICHE SAV CAPTEUR.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de pression différentielle.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène en aval.md",
+    "30_PROCÉDURES/PROC — Électricité — Potentiomètre.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Débitmètre.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Vanne EGR.md",
+    "30_PROCÉDURES/PROC — Électricité — Capteur inductif.md",
+    "30_PROCÉDURES/PROC — Électricité — Capteur de pression piézorésistif.md",
+    "30_PROCÉDURES/PROC — Électricité — Capteur de température à résistance variable.md",
+    "30_PROCÉDURES/PROC — Électricité — Capteur Hall.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Potentiomètre.md",
+    "30_PROCÉDURES/PROC — Électricité — Tester un relais.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur à effet Hall.md",
+    "SAV — Capteur — nom_capteur.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur de température à résistance variable.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur de température LDR.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur de pression de l'air.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur inductif.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur PMH.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Capteur de pression climatisation.md",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-6-x322-y88.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-3-x54-y149.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-2-x85-y548.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-7-x290-y99.png",
-    "00_ASSETS/ZOTERO/NOTES/SysÉlec — M2 — P3.06 — Le contrôle des capteurs.md",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-5-x291-y125.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-4-x321-y92.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-undefined-x54-y99.png",
-    "90_ANKI_SOURCES/Capteurs Controle.md",
-    "00_ASSETS/ZOTERO/FICHES/Capteurs Controle.md",
-    "90_ANKI_SOURCES/Relais.md",
-    "90_ANKI_SOURCES/Capteur.md",
-    "00_ASSETS/ZOTERO/FICHES/Capteur pmh.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Outil — Électricité, Bornier.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Hall.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Inductif.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur PMH.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — ABS — Capteur de vitesse inductif.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Électricité — Relais 5 broches.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Électricité — Relais 4 broches.md",
-    "30_PROCÉDURES/PROC — Électricité — Tester un relais.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Électricité — Relais.md",
-    "00_ASSETS/ZOTERO/FICHES/Relais.md",
-    "00_ASSETS/ZOTERO/NOTES/SysÉlec — M2 — P3.03 — Contrôle d'un relais partie 1.md",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-undefined-x56-y406.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-undefined-x54-y215.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-8-x86-y460.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-7-x54-y99.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de pression différentielle.md",
-    "50_SYSTÈMES/SYS — Pollution et antipollution.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Moteur — Joint SPI de vilebrequin.md",
-    "50_SYSTÈMES/SYS — Postcombution.md",
-    "20_DIAGNOSTIC/DIAG — Voyant pollution allumé.md",
-    "00_ASSETS/ZOTERO/ZOTERO - CODES COULEUR.md",
-    "90_ANKI_SOURCES/Pollution.md",
-    "00_ASSETS/ZOTERO/FICHES/Système de pollution.md",
     "90_ANKI_SOURCES",
     "50_SYSTÈMES",
     "40_SAVOIRS_TECHNIQUES",

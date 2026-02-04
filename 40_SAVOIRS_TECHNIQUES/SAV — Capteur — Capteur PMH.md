@@ -8,8 +8,8 @@ source: zotero
 Indique le régime moteur **et** la position du voilebrequin
 Aussi appelé capteur de vilebrequin ou capteur de régime
 ## Composition
-- [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Hall|SAV — Capteur — Hall]]
-- [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Inductif|SAV — Capteur — Inductif]]
+- [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur à effet Hall|SAV — Capteur — Capteur à effet Hall]]
+- [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur inductif|SAV — Capteur — Capteur inductif]]
 ## Principe de fonctionnement`
 Permet la gestion de l'allumage, de l'injection et du démarrage
 - signal envoyé au calculateur

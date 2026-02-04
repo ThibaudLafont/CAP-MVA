@@ -6,6 +6,8 @@ source: zotero
 ---
 ## Fonction
 Permet la recirculation des gaz d'échappement dans la chambre de combustion
+Optimiser le recyclage des gaz d'échappement
+Réduire les NOx
 ## Composition
 -
 ## Principe de fonctionnement
