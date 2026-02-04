@@ -15,6 +15,7 @@ source: zotero
 Un champ magnétique entoure le bobinage du capteur.
 Il est déformée à chaque passage d'une dent de la roue phonique
 Ce qui crée d'un courant alternatif (tension, fréquence) 
+[[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Inductif|SAV — Capteur — Inductif]]
 ## Valeurs caractéristiques
 - 0: roue bloquée
 ## À savoir par cœur
