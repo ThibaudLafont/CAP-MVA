@@ -10,11 +10,17 @@
           {
             "id": "3cf8da34683993ae",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_ASSETS/ZOTERO/FICHES/Capteurs Controle.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Capteurs Controle"
             }
           }
         ]
@@ -74,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 200
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -205,6 +211,16 @@
   },
   "active": "3cf8da34683993ae",
   "lastOpenFiles": [
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-6-x322-y88.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-3-x54-y149.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-2-x85-y548.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-7-x290-y99.png",
+    "00_ASSETS/ZOTERO/NOTES/SysÉlec — M2 — P3.06 — Le contrôle des capteurs.md",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-5-x291-y125.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-4-x321-y92.png",
+    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-undefined-x54-y99.png",
+    "90_ANKI_SOURCES/Capteurs Controle.md",
+    "00_ASSETS/ZOTERO/FICHES/Capteurs Controle.md",
     "90_ANKI_SOURCES/Relais.md",
     "90_ANKI_SOURCES/Capteur.md",
     "00_ASSETS/ZOTERO/FICHES/Capteur pmh.md",
@@ -223,12 +239,6 @@
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-undefined-x54-y215.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-8-x86-y460.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-7-x54-y99.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-5-x53-y408.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-5-x51-y112.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-4-x320-y549.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-4-x319-y160.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-3-x56-y507.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P303-3-x52-y202.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de pression différentielle.md",
     "50_SYSTÈMES/SYS — Pollution et antipollution.md",
@@ -238,10 +248,6 @@
     "00_ASSETS/ZOTERO/ZOTERO - CODES COULEUR.md",
     "90_ANKI_SOURCES/Pollution.md",
     "00_ASSETS/ZOTERO/FICHES/Système de pollution.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — DTC, Diagnostic Trouble Codes.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Vanne EGR.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Voyant EPC.md",
-    "00_ASSETS/TEMPLATES/FICHE SAV CAPTEUR.md",
     "90_ANKI_SOURCES",
     "50_SYSTÈMES",
     "40_SAVOIRS_TECHNIQUES",
