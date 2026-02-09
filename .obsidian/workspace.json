@@ -24,59 +24,45 @@
             }
           },
           {
-            "id": "a6aa812e9fab6f79",
+            "id": "71e3ad91177ffb57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Potentiomètre.md",
+                "file": "30_PROCÉDURES/PROC — Moteur — Compression des cylindres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — Capteur — Potentiomètre"
+              "title": "PROC — Moteur — Compression des cylindres"
             }
           },
           {
-            "id": "576e4f24e234f0a0",
+            "id": "0fc5389ad25afdb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_PROCÉDURES/PROC — Électricité — Capteur Hall.md",
+                "file": "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROC — Électricité — Capteur Hall"
+              "title": "DIAG — Moteur — Perte de puissance"
             }
           },
           {
-            "id": "6e042ada725d4206",
+            "id": "cd592382183a66c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène.md",
+                "file": "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — Capteur — Sonde à oxygène"
-            }
-          },
-          {
-            "id": "44fd7e277805f6e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_ASSETS/ZOTERO/FICHES/Compression et étanchéité des cylindres.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Compression et étanchéité des cylindres"
+              "title": "DIAG — Moteur — Perte de puissance"
             }
           },
           {
@@ -108,7 +94,43 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "fcad6375404a339b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44fd7e277805f6e5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_ASSETS/ZOTERO/FICHES/Compression et étanchéité des cylindres.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Compression et étanchéité des cylindres"
+            }
+          },
+          {
+            "id": "47aaee2b4415b0b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DIAG — Moteur — Perte de puissance"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 287.5
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -294,8 +316,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44fd7e277805f6e5",
+  "active": "0fc5389ad25afdb6",
   "lastOpenFiles": [
+    "00_ASSETS/ZOTERO/FICHES/Compression et étanchéité des cylindres.md",
+    "30_PROCÉDURES/PROC — Moteur — Compression des cylindres.md",
+    "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
+    "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (aval).md",
+    "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (amont).md",
+    "30_PROCÉDURES/PROC — Moteur — Étanchéité des cylindres.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène.md",
+    "30_PROCÉDURES/PROC — Électricité — Capteur Hall.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Potentiomètre.md",
     "00_ASSETS/IMAGES/VIN.jpeg",
     "00_ASSETS/IMAGES/typedefrein-e1405093534236.jpg",
     "00_ASSETS/IMAGES/train roulant - pivot.jpeg",
@@ -306,16 +337,11 @@
     "00_ASSETS/IMAGES/train roulant - chasse.jpeg",
     "00_ASSETS/IMAGES/train roulant - carrossage 1.jpeg",
     "00_ASSETS/IMAGES/système schéma.jpeg",
-    "00_ASSETS/IMAGES/systeme schema transmission.jpeg",
     "00_ASSETS/IMAGES/pdf 2.pdf",
     "00_ASSETS/IMAGES/pdf 1.pdf",
     "00_ASSETS/IMAGES/pdf 1_pdf 2_merged.pdf",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène.md",
-    "00_ASSETS/ZOTERO/FICHES/Compression et étanchéité des cylindres.md",
     "90_ANKI_SOURCES/Capteurs 2.md",
     "00_ASSETS/ZOTERO/FICHES/Capteurs Controle.md",
-    "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (amont).md",
-    "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (aval).md",
     "30_PROCÉDURES/PROC — Électricité — Débitmètre.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygèn.md",
     "00_ASSETS/TEMPLATES/FICHE SAV CAPTEUR.md",
@@ -327,14 +353,10 @@
     "30_PROCÉDURES/PROC — Électricité — Capteur inductif.md",
     "30_PROCÉDURES/PROC — Électricité — Capteur de pression piézorésistif.md",
     "30_PROCÉDURES/PROC — Électricité — Capteur de température à résistance variable.md",
-    "30_PROCÉDURES/PROC — Électricité — Capteur Hall.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Potentiomètre.md",
     "30_PROCÉDURES/PROC — Électricité — Tester un relais.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur à effet Hall.md",
     "SAV — Capteur — nom_capteur.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur de température à résistance variable.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur de température LDR.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur de pression de l'air.md",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339",
     "90_ANKI_SOURCES",
     "50_SYSTÈMES",
