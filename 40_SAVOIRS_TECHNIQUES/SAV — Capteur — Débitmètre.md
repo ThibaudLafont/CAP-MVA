@@ -18,7 +18,7 @@ Informer de la quantité d'air (entrant dans le moteur ou passant par la vanne E
 	2. 5V d'alimentation du capteur
 	3. Masse
 	4. Signal débit d'air (0 à 5V)
-	5. Thermistance (signal de température d'air)## Principe de fonctionnement
+	5. Thermistance (signal de température d'air)
 ## Principe de fonctionnement
 - l'élément chauffant est chauffé
 - la quantité d'air le refroidit plus ou moins
