@@ -40,20 +40,20 @@ Source : @MoteurM2P309
 5. ==boïtier : boitier de protection (humidité, saleté==)
 
 **contrôle du capteur**
-1. le **voyant moteur** est allumé
-	1. scanner oDB
-	2. erreurs (P0120, P0121, P0122, P0123 ou P2135) = problème avec le capteur de position de papillon
-2. Vérifier les connexion électriques
-	1. serrées, propres, non oxydées
-	2. sinon nettoyer avec nettoyant pour capteurs
-3. Mesurer la résistance
-	1. Mesure la résistance
-	2. comparer aux valeurs de la RTA
-4. Tension de sortie
-	1. Voltmètre, DC
-	2. Moteur tiède
-	3. La tension doit varier de façon régulière et constante lorsque l'on appuie sur l'accélérateur
-		1. piste montante : 1 à 5v
-		2. piste descendante : 5 à 1v
-	4. Si instable ou variation irrégulière : problème capteur
+1. ==le **voyant moteur** est allumé==
+	1. ==scanner oDB==
+	2. ==erreurs (P0120, P0121, P0122, P0123 ou P2135) = problème avec le capteur de position de papillon==
+2. ==Vérifier les connexion électriques==
+	1. ==serrées, propres, non oxydées==
+	2. ==sinon nettoyer avec nettoyant pour capteurs==
+3. ==Mesurer la résistance==
+	1. ==Mesure la résistance==
+	2. ==comparer aux valeurs de la RTA==
+4. ==Tension de sortie==
+	1. ==Voltmètre, DC==
+	2. ==Moteur tiède==
+	3. ==La tension doit varier de façon régulière et constante lorsque l'on appuie sur l'accélérateur==
+		1. ==piste montante : 1 à 5v==
+		2. ==piste descendante : 5 à 1v==
+	4. ==Si instable ou variation irrégulière : problème capteur==
 

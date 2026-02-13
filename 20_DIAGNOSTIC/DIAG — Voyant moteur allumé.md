@@ -11,6 +11,7 @@ source: zotero
 3.
 ## Tests à effectuer
 - [[30_PROCÉDURES/PROC — Admission — Capteur de position de papillon des gaz|PROC — Admission — Capteur de position de papillon des gaz]]
+- [[30_PROCÉDURES/PROC — Admission — Actionneur papillon des gaz|PROC — Admission — Actionneur papillon des gaz]]
 ## Orientation
 - Si test OK :
 - Si test KO :
