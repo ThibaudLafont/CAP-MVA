@@ -12,6 +12,7 @@ Perte de puissance
 - débitmètre
 - prise d’air
 - pression carburant
+- défaillance EGR
 ### Allumage / injection
 - ratés d’allumage
 - injecteur défectueux

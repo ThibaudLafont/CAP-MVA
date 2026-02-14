@@ -6,7 +6,7 @@ Système qui traite les polluants après la phase de combustion à l'échappemen
 ## Organes impliqués
 - [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène en aval|SAV — Capteur — Sonde à oxygène en aval]]
 - [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de pression différentielle]]
-- [[40_SAVOIRS_TECHNIQUES/SAV — Pollution — Vanne EGR|SAV — Pollution — Vanne EGR]]
+- [[40_SAVOIRS_TECHNIQUES/SAV — Pollution — EGR|SAV — Pollution — EGR]]
 ## Parcours fonctionnel simplifié
 -
 ## Références

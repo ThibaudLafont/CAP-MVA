@@ -13,6 +13,7 @@ Le message "anomalie pollution" s'affiche, si le véhicule est équipé
 Les systèmes antipollution et la gestion moteur sont intimement liés : 
 1. Dysfonctionnement des systèmes anti-pollution 
 	- gestion des gaz d'échappement
+	- EGR
 2. Défaillance moteur 
 	- système d'allumage
 	- système d'injection
