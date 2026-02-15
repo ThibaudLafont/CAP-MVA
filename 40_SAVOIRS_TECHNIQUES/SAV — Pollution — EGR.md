@@ -16,7 +16,7 @@ Réduire les polluants en dérivant une partie des gaz d'échappement vers l'adm
 	- utilise généralement le LDR moteur
 	- **fonction thermique** : refroidit les gaz à recycler
 	- **contrainte** : limiter la perte de charge
--  **Tubes de liaison** : relient échappement et admission
+- **Tubes de liaison** : relient échappement et admission
 - **volets bypass**
 ## Principe de fonctionnement
 Une partie des gaz d'échappement est recyclée pour être à nouveau brulée, afin de diminuer les polluants à l'échappement. 

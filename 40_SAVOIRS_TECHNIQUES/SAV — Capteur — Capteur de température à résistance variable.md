@@ -15,6 +15,7 @@ Informer de la température d'un fluide
 - **tension de sortie** : 0,5V à 4,5V
 ## À savoir par cœur
 - thermistance de type **CTN** (Coefficient de Température Négatif), c'est à dire que plus la température augmente et plus la résistance diminue
+- il existe aussi des thermistances CTP (Coefficient de Température Positif), mais leur usage est rare dans l'automobile
 ## Références
 - @SysElecM2P306
 - @SysElecM2P305
