@@ -6,7 +6,7 @@ source: zotero
 ---
 ## Fonction
 Informer de la température d'un fluide
-*applications* : air d'admission, [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur de température LDR|eau moteur]], air habitacle
+*applications* : air d'admission, [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de température LDR|eau moteur]], air habitacle
 ## Composition
 - oxydes métalliques frittés 
 ## Principe de fonctionnement
