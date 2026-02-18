@@ -16,6 +16,7 @@ Acheminer le carburant depuis le réservoir jusqu'aux injecteurs, puis acheminer
 - participe au refroidissement
 - permet la régulation de pression
 ## Parcours fonctionnel simplifié
+[[00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-3-x54-y304.png|Schéma simplifié]]
 - Réservoir
 - Pompe de gavage
 - Filtre carburant
@@ -28,4 +29,5 @@ Acheminer le carburant depuis le réservoir jusqu'aux injecteurs, puis acheminer
 - pilotage précis du débit injecté
 - présence d’un circuit retour
 ## Références
+- @LiaisonAuSolM1P120
 - @MoteurM2P308 

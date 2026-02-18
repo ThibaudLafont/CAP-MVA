@@ -4,91 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "885a24023fadf434",
+        "id": "7444dd367915c271",
         "type": "tabs",
         "children": [
           {
-            "id": "7def00bb67813c94",
+            "id": "5cadc792ee2ff176",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_ASSETS/ZOTERO/FICHES/Manuscrit CAP - Fluides et liquides.md",
+                "file": "50_SYSTÈMES/SYS — Échappement.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Manuscrit CAP - Fluides et liquides"
+              "title": "SYS — Échappement"
             }
           },
           {
-            "id": "6a51fa1278758b5c",
+            "id": "69d79fcff09bcb08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — Fluide — Huile moteur.md",
+                "file": "50_SYSTÈMES/SYS — Lubrification moteur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — Fluide — Huile moteur"
+              "title": "SYS — Lubrification moteur"
             }
           },
           {
-            "id": "53c478ae56739c4d",
+            "id": "4068bbd48febbcbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Notion, Cavitation.md",
+                "file": "50_SYSTÈMES/SYS — Préchauffage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — 00 — Notion, Cavitation"
+              "title": "SYS — Préchauffage"
             }
           },
           {
-            "id": "a95b83ac70b5eddb",
+            "id": "b4dd3261a8736d46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — Fluide — Liquide de frein.md",
+                "file": "50_SYSTÈMES/SYS — Transmission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — Fluide — Liquide de frein"
+              "title": "SYS — Transmission"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "1253e7d54ccb2eb5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4f00b5c52c91a446",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_ASSETS/ZOTERO/FICHES/Manuscrit CAP - Fluides et liquides.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Manuscrit CAP - Fluides et liquides"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -162,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template.md",
+                "file": "50_SYSTÈMES/SYS — Transmission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Template"
+              "title": "Backlinks for SYS — Transmission"
             }
           },
           {
@@ -255,8 +230,7 @@
               "title": "File properties for IMPORT SCRIPT"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -275,54 +249,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53c478ae56739c4d",
+  "active": "b4dd3261a8736d46",
   "lastOpenFiles": [
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Notion, Viscosité.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Fluide — Liquide de refroidissement.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Fluide — Liquide de frein.md",
+    "50_SYSTÈMES/SYS — Préchauffage.md",
+    "50_SYSTÈMES/SYS — Transmission.md",
+    "50_SYSTÈMES/SYS — Alimentation Diesel.md",
+    "50_SYSTÈMES/SYS — Alimentation Essence.md",
+    "50_SYSTÈMES/SYS — Lubrification moteur.md",
+    "50_SYSTÈMES/SYS — Échappement.md",
+    "50_SYSTÈMES/SYS — Refroidissement moteur.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Moteur — Huile moteur.md",
     "00_ASSETS/ZOTERO/FICHES/Manuscrit CAP - Fluides et liquides.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Fluide — Huile moteur.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Notion, Cavitation.md",
+    "00_ASSETS/IMAGES/OLD/Bougie d'allumage.png",
+    "00_ASSETS/IMAGES/OLD",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-10-x85-y101.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-10-x79-y360.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-9-x55-y240.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-8-x318-y103.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-8-x75-y288.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-7-x54-y333.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-6-x321-y315.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-6-x85-y380.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-5-x292-y436.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120",
+    "00_ASSETS/ZOTERO/NOTES/LiaisonAuSol — M1 — P1.20 — Les fonctions des systèmes et des sous—systèmes d'un véhicule.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Notion, Viscosité.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Fluide — Liquide de refroidissement.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Fluide — Liquide de frein.md",
     "00_ASSETS/ZOTERO/FICHES/Manuscrit CAP - Déchets.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 01 — Environnement, Bordereau de suivi des déchets (BSD).md",
     "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Déroulé d'une intervention.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 01 — Environnement, Classification des déchets atelier.md",
-    "00_ASSETS/IMAGES/ZOTERO/1769078956000_EnvProM1P106/EnvProM1P106-3-x50-y150.png",
     "00_ASSETS/IMAGES/ZOTERO/1769078956000_EnvProM1P106",
     "00_ASSETS/ZOTERO/NOTES/EnvPro — M1 — P1.06 — Gestion des déchets.md",
     "90_ANKI_SOURCES/controle capteurs refroidissement.md",
     "30_PROCÉDURES/PROC — Électricité — Capteur de température à résistance variable.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Thermocontact.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de température LDR.md",
-    "50_SYSTÈMES/SYS — Refroidissement moteur.md",
     "00_ASSETS/ZOTERO/FICHES/Contrôle du thermostat,  du thermocontact et de la  sonde de temp.md",
     "30_PROCÉDURES/PROC — Capteur — Thermostat.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Thermostat.md",
-    "30_PROCÉDURES/PROC — Capteur — Thermocontact.md",
-    "40_SAVOIRS_TECHNIQUES/SAV —  — objet.md",
-    "90_ANKI_SOURCES/Capteur.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de tempéraurer.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — EGR HP.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — EGR BP.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — EGR.md",
-    "00_ASSETS/IMAGES/ZOTERO/1769099018000_MoteurM2P311/MoteurM2P311-5-x55-y288.png",
-    "00_ASSETS/IMAGES/Bougie d'allumage - indice thermique et bec isolant.png",
-    "00_ASSETS/IMAGES/ZOTERO/MoteurM2P311-undefined-x57-y140.png",
-    "00_ASSETS/IMAGES/ZOTERO/1769099018000_MoteurM2P311/MoteurM2P311-undefined-x57-y140.png",
-    "00_ASSETS/IMAGES/ZOTERO/1769099018000_MoteurM2P311/MoteurM2P311-3-x56-y421.png",
-    "00_ASSETS/IMAGES/ZOTERO/1769099018000_MoteurM2P311/MoteurM2P311-3-x53-y138.png",
     "00_ASSETS/IMAGES/ZOTERO/1769099018000_MoteurM2P311",
-    "00_ASSETS/IMAGES/ZOTERO/MoteurM2P311/MoteurM2P311-undefined-x57-y140.png",
-    "00_ASSETS/IMAGES/ZOTERO/MoteurM2P311/MoteurM2P311-5-x55-y288.png",
-    "00_ASSETS/IMAGES/ZOTERO/MoteurM2P311/MoteurM2P311-3-x56-y421.png",
     "00_ASSETS/IMAGES/ZOTERO/MoteurM2P311",
     "00_ASSETS/IMAGES/ZOTERO/1769099018000MoteurM2P311",
     "00_ASSETS/IMAGES/ZOTERO/Error - `format` can only be applied to dates. Tried for format object ",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172338",
-    "00_ASSETS/IMAGES/pdf 2.pdf",
-    "00_ASSETS/IMAGES/pdf 1.pdf",
-    "00_ASSETS/IMAGES/pdf 1_pdf 2_merged.pdf",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172339",
+    "00_ASSETS/IMAGES/OLD/pdf 2.pdf",
+    "00_ASSETS/IMAGES/OLD/pdf 1.pdf",
     "Untitled.canvas"
   ]
 }

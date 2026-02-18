@@ -7,9 +7,9 @@ source: zotero
 ## Fonction
 Crée un arc électrique permettant le déclenchement de la combustion du mélange air/carburant.
 ## Composition
-[[00_ASSETS/IMAGES/Bougie d'allumage.png|Schéma]]
+[[00_ASSETS/IMAGES/OLD/Bougie d'allumage.png|Schéma]]
 1. Embout
-2. Céramique isolante (dont [[00_ASSETS/IMAGES/Bougie d'allumage - indice thermique et bec isolant.png|bec isolant]])
+2. Céramique isolante (dont [[00_ASSETS/IMAGES/OLD/Bougie d'allumage - indice thermique et bec isolant.png|bec isolant]])
 3. Culot
 4. Électrode de masse
 5. Électrode de puissance (ou centrale)

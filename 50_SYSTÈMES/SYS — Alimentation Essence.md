@@ -6,6 +6,7 @@ Acheminer le carburant depuis le réservoir jusqu'aux injecteurs ou jusqu'au car
 ## Organes impliqués
 - [[40_SAVOIRS_TECHNIQUES/SAV — Alimentation Essence — Pompe à carburant|SAV — Alimentation Essence — Pompe à carburant]]
 ## Parcours fonctionnel simplifié
+[[00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-3-x54-y304.png|Schéma simplifié]]
 - Réservoir
 - Pompe carburant
 - [[40_SAVOIRS_TECHNIQUES/SAV — Alimentation Essence — Filtre à carburant|SAV — Alimentation Essence — Filtre à carburant]]
@@ -20,4 +21,5 @@ Acheminer le carburant depuis le réservoir jusqu'aux injecteurs ou jusqu'au car
 	- rampe commune
 	- retour du carburant
 ## Références
+- @LiaisonAuSolM1P120
 - @MoteurM2P308 

@@ -2,8 +2,12 @@
 type: systeme
 ---
 ## Rôle du système
-Assurer la montée et le maintient en température optimale du moteur
+Assurer la montée et le maintient en température optimale du moteur, quelque soient le régime moteur et les conditions
 ## Organes impliqués
+### Organes
+- Radiateur
+- Ventilateur
+- Pompe à eau
 ### Capteurs
 - [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de température LDR|SAV — Capteur — Sonde de température LDR]]
 ### Actionneurs
