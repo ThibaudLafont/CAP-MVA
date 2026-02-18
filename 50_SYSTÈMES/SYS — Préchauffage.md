@@ -2,15 +2,16 @@
 type: systeme
 ---
 ## Rôle du système
-Permettre l’auto-inflammation du gasoil à froid.
+Faciliter le démarrage à froid d’un moteur diesel en chauffant la chambre de combustion.
 ## Organes impliqués
-- Bougies de préchauffage
+![[00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-10-x85-y101.png|250]]
+- Batterie
 - Relais de préchauffage
 - Calculateur
-- Batterie
+- Bougies de préchauffage
 ## Parcours fonctionnel simplifié
-![[00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-10-x85-y101.png|250]]
+Calculateur → Relais → Bougies → Chambre de combustion
 ## Spécificités
--
+- Uniquement sur les motorisations diesel
 ## Références
 - @LiaisonAuSolM1P120

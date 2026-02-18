@@ -4,6 +4,7 @@ type: systeme
 ## Rôle du système
 Assurer la montée et le maintient en température optimale du moteur, quelque soient le régime moteur et les conditions
 ## Organes impliqués
+![[00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-5-x56-y153.png|250]]
 ### Organes
 - Radiateur
 - Ventilateur

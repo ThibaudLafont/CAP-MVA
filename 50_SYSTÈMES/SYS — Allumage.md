@@ -4,6 +4,7 @@ type: systeme
 ## Rôle du système
 - Déclencher la combustion du mélange air/carburant au moment opportun.
 ## Organes impliqués
+![[00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-10-x79-y360.png|250]]
 - [[40_SAVOIRS_TECHNIQUES/SAV — Allumage — Bobine d'allumage|SAV — Allumage — Bobine d'allumage]]
 - [[40_SAVOIRS_TECHNIQUES/SAV — Alllumage — Types de bobines d’allumage]]
 - [[40_SAVOIRS_TECHNIQUES/SAV — Allumage — Faisceau d’allumage]]
