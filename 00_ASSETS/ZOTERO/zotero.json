@@ -143,6 +143,8 @@
   {"id":"ProcedureM6P101","citation-key":"ProcedureM6P101","title":"Procédure — M6 — P1.01 — La procédure de maintenance corrective","type":"document"},
   {"id":"ProcedureM6P102","citation-key":"ProcedureM6P102","title":"Procédure — M6 — P1.02 — La consignation électrique","type":"document"},
   {"id":"ProcM2P100","citation-key":"ProcM2P100","title":"Proc — M2 — P1.00 — Contrôles et ajustements périodiques","type":"document"},
+  {"id":"randallFordFocusDiesel2015","author":[{"family":"Randall","given":"Martynn"}],"citation-key":"randallFordFocusDiesel2015","ISBN":"978-0-85733-909-6","issued":{"date-parts":[["2015"]]},"language":"en","note":"OCLC: 1064177706","publisher":"Haynes Publishing","publisher-place":"Sparkford","source":"Open WorldCat","title":"Ford Focus diesel","type":"book"},
+  {"id":"randallFordFocusDiesel2015a","author":[{"family":"Randall","given":"Martynn"}],"citation-key":"randallFordFocusDiesel2015a","ISBN":"978-0-85733-909-6","issued":{"date-parts":[["2015"]]},"language":"en","note":"OCLC: 1064177706","publisher":"Haynes Publishing","publisher-place":"Sparkford","source":"Open WorldCat","title":"Ford Focus diesel","type":"book"},
   {"id":"RestitutionP201Restitution","citation-key":"RestitutionP201Restitution","title":"Restitution — P2.01 —  La restitution du véhicule","type":"document"},
   {"id":"SysElecM1P301","citation-key":"SysElecM1P301","title":"SysÉlec — M1 — P3.01 — L'alternateur","type":"document"},
   {"id":"SysElecM1P301a","citation-key":"SysElecM1P301a","title":"SysÉlec — M1 — P3.01 — Le démarreur","type":"document"},
