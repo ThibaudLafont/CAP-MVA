@@ -37,7 +37,7 @@ Source : @PollutionM7P201
 	- problème du circuit de turbo
 	- problème de turbo
 
-**diagnostic** : turbo 
+**Proc** : vérification du turbo 
 - symptômes problème turbo 
 	- fumée échappement noires ou bleues
 	- consommation d'huile élevée
@@ -71,5 +71,28 @@ Source : @PollutionM7P201
 		3. Si dysfonctionnement : 
 			1. Vérification du circuit d'air
 			2. dépose et remplacement du turbocompresseur
+	6. **Contrôle du circuit d'air**
+
+**Proc** : remplacement du turbo
+	1. **Vérifier et nettoyer le circuit d'air**
+		1. Vérifier si l'écrou de fixation de le roue de compresseur est présent, sinon prévoir un nouveau
+	2. **Vidange moteur**
+		1. ! par écoulement et pas par aspistation
+	3. **Dépose et repose du turbocompresseur**
+		1. Nettoyage du collecteur d'échappement 
+		2. Réamorcer manuellement le turbo : 
+			1. Mettre de l'huile neuve dans le moteur 
+			2. Tourner la turbine à la main pour que l'huile se répartisse dans les palliers
+	4. **Contrôle final**
+		1. Démarrer le moteur
+		2. Le laisser tourner au ralenti une minute puis à plein régime
+		3. Le remettre au ralenti pendant une minute
+		4. Éteindre le moteur
 
 
+**Proc** : vérification du circuit d'air
+- Filtre à air : état et remplacement
+- Carter filtre à air : nettoyage
+- Vérifier les zones d'entrées et de sortie d'air 
+- Vérifier l'obstruction et l'écrasement des circuits
+- Retirer tout résidu d'huile du système d'admission d'air
