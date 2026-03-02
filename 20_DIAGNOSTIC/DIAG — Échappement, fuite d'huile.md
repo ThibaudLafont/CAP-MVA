@@ -5,11 +5,9 @@ systeme:
 source: zotero
 ---
 ## Symptôme observé
-Le ralenti est instable
-## Causes possibles
-- Défaillance EGR
-- Défaillance capteur d'accélérateur 
-
+Fuite d'huile dans le circuit d'échappement 
+## Causes possibles (par ordre de probabilité)
+1. Problème de turbocompresseur
 ## Tests à effectuer
 - Test 1 → [[PROC — ]]
 - Test 2 → [[PROC — ]]

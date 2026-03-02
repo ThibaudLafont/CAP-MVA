@@ -5,7 +5,7 @@ importance: haute
 source: zotero
 ---
 ## Fonction
-Indique le régime moteur **et** la position du voilebrequin
+Indique le régime moteur **et** la position du vilebrequin
 Aussi appelé capteur de vilebrequin ou capteur de régime
 ## Composition
 - [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur à effet Hall|SAV — Capteur — Capteur à effet Hall]]

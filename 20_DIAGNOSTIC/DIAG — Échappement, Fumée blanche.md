@@ -5,11 +5,10 @@ systeme:
 source: zotero
 ---
 ## Symptôme observé
-Le ralenti est instable
-## Causes possibles
-- Défaillance EGR
-- Défaillance capteur d'accélérateur 
-
+Fumée blanche à l'échappement
+## Causes possibles (par ordre de probabilité)
+1. Évaporation
+2. Bougies de préchauffage 
 ## Tests à effectuer
 - Test 1 → [[PROC — ]]
 - Test 2 → [[PROC — ]]

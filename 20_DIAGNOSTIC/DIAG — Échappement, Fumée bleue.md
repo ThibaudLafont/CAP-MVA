@@ -5,11 +5,12 @@ systeme:
 source: zotero
 ---
 ## Symptôme observé
-Le ralenti est instable
-## Causes possibles
-- Défaillance EGR
-- Défaillance capteur d'accélérateur 
-
+Fumée bleue à l'échappement
+## Causes possibles (par ordre de probabilité)
+Consommation d'huile
+1. Usure des segments
+2. Fuite d'huile par le compresseur 
+3. 
 ## Tests à effectuer
 - Test 1 → [[PROC — ]]
 - Test 2 → [[PROC — ]]

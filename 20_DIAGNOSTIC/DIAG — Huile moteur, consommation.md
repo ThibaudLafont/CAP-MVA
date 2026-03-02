@@ -6,8 +6,8 @@ source: zotero
 ---
 ## Symptôme observé
 ## Causes possibles (par ordre de probabilité)
-1.
-2.
+1. Usure des segments
+2. Fuite du turbocompresseur
 3.
 ## Tests à effectuer
 - Test 1 → [[PROC — ]]

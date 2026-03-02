@@ -8,11 +8,14 @@ source: zotero
 Ratés moteur
 Perte de puissance
 ## Causes possibles (par ordre de probabilité)
-### Admission / carburant
+### Admission
+- filtre à air sale
 - débitmètre
-- prise d’air
-- pression carburant
+- étanchéité (prise d’air)
 - défaillance EGR
+- turbo
+### Carburant
+- pression carburant
 ### Allumage / injection
 - ratés d’allumage
 - injecteur défectueux

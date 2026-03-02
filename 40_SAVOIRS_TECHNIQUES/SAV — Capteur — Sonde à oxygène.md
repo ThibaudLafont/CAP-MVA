@@ -14,7 +14,7 @@ Mesure la teneur en oxygène contenue dans les gaz d'échappement
 ## Composition
 - corps en céramique poreuse
 - électrolyte solide
-- deux éléctrodes
+- deux électrodes
 - 4 fils :
 	- Deux pour le réchauffage
 	- Deux pour le signal de sortie
