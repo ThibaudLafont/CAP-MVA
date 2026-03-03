@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Catalyseur.md",
+                "file": "30_PROCÉDURES/PROC — Électricité — Débitmètre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — Pollution — Catalyseur"
-            }
-          },
-          {
-            "id": "48cb66d4db89d2fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_ANKI_SOURCES/ANKI — objet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ANKI — objet"
+              "title": "PROC — Électricité — Débitmètre"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,34 +224,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48cb66d4db89d2fa",
+  "active": "1e535d1628523851",
   "lastOpenFiles": [
-    "20_DIAGNOSTIC/DIAG — Ralenti instable.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Débitmètre.md",
+    "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (amont).md",
+    "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (aval).md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Catalyseur.md",
+    "90_ANKI_SOURCES/ANKI — objet.md",
+    "20_DIAGNOSTIC/DIAG — Ralenti instable.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Pollution — FAP.md",
     "00_ASSETS/ZOTERO/FICHES/Contrôle étanchéité.md",
     "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
     "20_DIAGNOSTIC/DIAG — Échappement, Fumée bleue.md",
     "20_DIAGNOSTIC/DIAG — Échappement, Fumée blanche.md",
-    "90_ANKI_SOURCES/ANKI — objet.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Admission — Turbocompresseur.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène.md",
     "20_DIAGNOSTIC/DIAG — symptome_principal.md",
     "30_PROCÉDURES/PROC — Refroidissement — Contrôle étanchéité.md",
     "00_ASSETS/ZOTERO/FICHES/Capteurs Controle.md",
     "50_SYSTÈMES/SYS — Postcombution.md",
     "50_SYSTÈMES/SYS — Pollution et antipollution.md",
     "30_PROCÉDURES/PROC — Admission, Turbocompresseur  — Diagnostic.md",
-    "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (aval).md",
     "40_SAVOIRS_TECHNIQUES/SAV — Pollution — EGR.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Débitmètre.md",
     "90_ANKI_SOURCES/Capteurs 2.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de tempéraurer.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de température LDR.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur de suralimentation (ou MAP).md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur PMH.md",
     "00_ASSETS/TMP.md",
-    "00_ASSETS/ZOTERO/NOTES/Pollution — M1 — P3.03 — Systèmes de déPollution — M1.md",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-5-x54-y496.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y432.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y163.png",

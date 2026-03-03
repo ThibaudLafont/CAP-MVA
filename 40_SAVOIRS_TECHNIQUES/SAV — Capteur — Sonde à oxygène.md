@@ -13,15 +13,22 @@ Mesure la teneur en oxygène contenue dans les gaz d'échappement
 - Sonde en aval du catalyseur : surveiller le catalyseur (uniquement sur moteurs essence)
 ## Composition
 - corps en céramique poreuse
-- électrolyte solide
-- deux électrodes
+- compartiment exposé aux gaz d'échappement
+- membrane perméable à l'oxygène : entre les deux compartiments
+- compartiment intérieur : 
+	- électrolyte solide  
+	- deux électrodes : une de référence et une de mesure
 - 4 fils :
 	- Deux pour le réchauffage
 	- Deux pour le signal de sortie
 ## Principe de fonctionnement
-Informe de la qualité de la combustion par la mesure des gaz d'échappement
-- chauffée à température de fonctionnement (300°C)
-- délivre une tension proportionnelle à la différence de la teneur en oxygène de l'air ambiant et des gaz d'échappement
+Informe de la qualité de la combustion par la mesure des gaz d'échappement 
+- chauffée à température de fonctionnement (300 à 600°C)
+- une différence de potentiel est créée entre les deux électrodes
+- les gaz d'échappement traversent la membrane (perméable à l'oxygène)
+- l'oxygène qu'ils contiennent réagit avec l'électrolyte 
+- la tension produite est proportionnelle à la différence de la teneur en oxygène de l'air ambiant et des gaz d'échappement
+- le calculateur moteur utilise cette valeur pour déterminer si le mélange est riche/pauvre et adapte l'injection
 ## Signaux typiques
 ## Valeurs caractéristiques
 - **température de fonctionnement** : 300°C
