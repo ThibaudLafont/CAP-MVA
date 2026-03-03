@@ -26,11 +26,11 @@ Informe de la qualité de la combustion par la mesure des gaz d'échappement
 ## Valeurs caractéristiques
 - **température de fonctionnement** : 300°C
 - **alimentation de chauffage** : 12V
-- **rapport stœchiométrique** : 1g de carburant pour 14,7g d'air
+- **rapport stœchiométrique** : 14,7:1 (air/carburant)
 ## À savoir par cœur
 - **température de fonctionnement** : 300°C
 - **rapport stœchiométrique** : 1g de carburant pour 14,7g d'air
-- **Sonde en aval du catalyseur** : uniquement sur moteurs essence
+- **Sonde aval** : contrôle efficacité catalyseur
 ## Risques en cas de mal-fonction
 - ne permet plus de corriger les temps d'injection, perte de contrôle du système de dépollution 
 - la pollution augmente

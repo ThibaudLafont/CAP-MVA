@@ -18,9 +18,9 @@ Filtre les particules fines contenues dans les gaz d'échappement post combustio
 		- via un injecteur dédié
 		- via les injecteurs cylindre
 ## Valeurs caractéristiques
-- **Température de brulage** : 400 °C
+- **Température de brulage** : 550 °C
 ## À savoir par cœur
-- **Température de brulage** : 400 °C
+- **Température de brulage** : 550 °C
 - **Régénération du FAP** : brulage des gaz stockés
 ## Références
 - @PollutionM1P303

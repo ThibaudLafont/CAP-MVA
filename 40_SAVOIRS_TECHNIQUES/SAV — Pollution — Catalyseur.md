@@ -23,6 +23,7 @@ Réduire les polluants émis à l'échappement
 - réduit CO, HC (et NOx)
 - transforme en CO2 et H2O
 - Moteur diesel : deux voies
-- 500 à 800 °C
+- catalyseur froid inefficace
+- **Température de fonctionnement** : 500 à 800 °C
 ## Références
 - @PollutionM1P303
