@@ -8,22 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fc8affda836e8c3",
+            "id": "cba39a0534caf065",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur inductif.md",
+                "file": "90_ANKI_SOURCES/ANKI — objet.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "SAV — Capteur — Capteur inductif"
+              "title": "ANKI — objet"
+            }
+          },
+          {
+            "id": "9559792168eb2f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_PROCÉDURES/PROC — Pyrotechnie, Airbag — Contrôle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROC — Pyrotechnie, Airbag — Contrôle"
+            }
+          },
+          {
+            "id": "1c461a84e73f7459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Sécurité — Balais d'essuie-glace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — Sécurité — Balais d'essuie-glace"
+            }
+          },
+          {
+            "id": "23639b0b76b38469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_PROCÉDURES/PROC — Sécurité — Essuie-glace, contrôle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROC — Sécurité — Essuie-glace, contrôle"
+            }
+          },
+          {
+            "id": "e92706f09875b550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_DIAGNOSTIC/DIAG — Témoin airbag.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DIAG — Témoin airbag"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -97,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur inductif.md",
+                "file": "30_PROCÉDURES/PROC — Sécurité — Essuie-glace, contrôle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SAV — Capteur — Capteur inductif"
+              "title": "Backlinks for PROC — Sécurité — Essuie-glace, contrôle"
             }
           },
           {
@@ -209,11 +263,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fc8affda836e8c3",
+  "active": "23639b0b76b38469",
   "lastOpenFiles": [
+    "40_SAVOIRS_TECHNIQUES/SAV — Sécurité — Balais d'essuie-glace.md",
+    "30_PROCÉDURES/PROC — Sécurité — Essuie-glace, contrôle.md",
+    "30_PROCÉDURES/PROC — Pyrotechnie, Airbag — Contrôle.md",
+    "90_ANKI_SOURCES/ANKI — objet.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Airbag.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur inductif.md",
+    "20_DIAGNOSTIC/DIAG — Témoin airbag.md",
     "30_PROCÉDURES/PROC — Électricité — Capteur inductif.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur à effet Hall.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur inductif.md",
     "30_PROCÉDURES/PROC — Électricité — Capteur Hall.md",
     "50_SYSTÈMES/SYS — ABS.md",
     "40_SAVOIRS_TECHNIQUES/SAV — ABS — Capteur de vitesse inductif.md",
@@ -231,12 +291,6 @@
     "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (aval).md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde à oxygène.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Pollution — Catalyseur.md",
-    "90_ANKI_SOURCES/ANKI — objet.md",
-    "20_DIAGNOSTIC/DIAG — Ralenti instable.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — FAP.md",
-    "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
-    "20_DIAGNOSTIC/DIAG — Échappement, Fumée bleue.md",
-    "20_DIAGNOSTIC/DIAG — Échappement, Fumée blanche.md",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-5-x54-y496.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y432.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y163.png",
