@@ -14,6 +14,8 @@ Vérifier la pression dans la rampe commune
 ## Outillage nécessaire
 - Valise ODB
 ## Étapes
+### Sécurité et prérequis
+[[30_PROCÉDURES/PROC — Alimentation — Prérequis|PROC — Alimentation — Prérequis]]
 ### Vérifier la pompe de gavage
 [[40_SAVOIRS_TECHNIQUES/SAV — Alimentation Diesel — Pompe de gavage|SAV — Alimentation Diesel — Pompe de gavage]]
 ### Vérifier la pression du rail

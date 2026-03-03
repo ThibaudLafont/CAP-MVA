@@ -4,39 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "40004f8ad6405b20",
+        "id": "85d02a4f3ae21480",
         "type": "tabs",
         "children": [
           {
-            "id": "ada7869634e4e3e4",
+            "id": "568efe755eb8032c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_ASSETS/ZOTERO/FICHES/Contrôle étanchéité.md",
+                "file": "30_PROCÉDURES/PROC — Alimentation Essence — Rampe commune.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Contrôle étanchéité"
-            }
-          },
-          {
-            "id": "1e535d1628523851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — Électricité — Débitmètre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — Électricité — Débitmètre"
+              "title": "PROC — Alimentation Essence — Rampe commune"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,13 +76,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 479.5
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -224,8 +209,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e535d1628523851",
+  "active": "103bed5cb1fa1913",
   "lastOpenFiles": [
+    "30_PROCÉDURES/PROC — Alimentation — Circuit, injection directe.md",
+    "30_PROCÉDURES/PROC — Alimentation Essence — Rampe commune.md",
+    "30_PROCÉDURES/PROC — Alimentation — Circuit, injection indirecte.md",
+    "30_PROCÉDURES/PROC — Alimentation Diesel — Rampe commune.md",
+    "30_PROCÉDURES/PROC — Alimentation Diesel — Pompe de gavage.md",
+    "30_PROCÉDURES/PROC — Alimentation — Prérequis.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Alimentation Diesel — Injecteur.md",
+    "00_ASSETS/ZOTERO/FICHES/Contrôle étanchéité.md",
+    "30_PROCÉDURES/PROC — Électricité — Débitmètre.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Débitmètre.md",
     "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (amont).md",
     "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (aval).md",
@@ -234,7 +228,6 @@
     "90_ANKI_SOURCES/ANKI — objet.md",
     "20_DIAGNOSTIC/DIAG — Ralenti instable.md",
     "40_SAVOIRS_TECHNIQUES/SAV — Pollution — FAP.md",
-    "00_ASSETS/ZOTERO/FICHES/Contrôle étanchéité.md",
     "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
     "20_DIAGNOSTIC/DIAG — Échappement, Fumée bleue.md",
     "20_DIAGNOSTIC/DIAG — Échappement, Fumée blanche.md",
@@ -244,14 +237,6 @@
     "00_ASSETS/ZOTERO/FICHES/Capteurs Controle.md",
     "50_SYSTÈMES/SYS — Postcombution.md",
     "50_SYSTÈMES/SYS — Pollution et antipollution.md",
-    "30_PROCÉDURES/PROC — Admission, Turbocompresseur  — Diagnostic.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — EGR.md",
-    "90_ANKI_SOURCES/Capteurs 2.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de tempéraurer.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Sonde de température LDR.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur de suralimentation (ou MAP).md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur PMH.md",
-    "00_ASSETS/TMP.md",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-5-x54-y496.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y432.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y163.png",

@@ -1,13 +1,8 @@
 ---
-
 type: procedure
-
 organe:
-
 objectif:
-
 source: zotero
-
 ---
 ## Objectif de la procédure
 Vérifier la pression et le débit de la pompe de gavage
@@ -15,6 +10,8 @@ Vérifier la pression et le débit de la pompe de gavage
 - manomètre
 - verre gradué
 ## Étapes
+### Sécurité et prérequis
+[[30_PROCÉDURES/PROC — Alimentation — Prérequis|PROC — Alimentation — Prérequis]]
 ### Pression
 1. Brancher un Té et le manomètre **juste avant la pompe HP**
 #### Valeurs attendues
