@@ -20,7 +20,7 @@ Empêcher le blocage des roues en cas de freinage violent
 - fonctionne uniquement au-dessus de ~4 à 8 km/h
 - devient inactif si défaut électronique (freinage classique)
 ## Organes impliqués
-- 4x [[40_SAVOIRS_TECHNIQUES/SAV — ABS — Capteur de vitesse inductif|capteurs de roue]] inductifs (p.4)
+- 4x capteurs de visse [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur inductif|inductifs]] ou [[40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur à effet Hall|à effet Hall]] (p.4)
 - 4x roues phoniques (p.3)
 - [[40_SAVOIRS_TECHNIQUES/SAV — ABS — Calculateur|SAV — ABS — Calculateur]] + relais (p.3)
 - [[40_SAVOIRS_TECHNIQUES/SAV — ABS — Bloc hydraulique|SAV — ABS — Bloc hydraulique]] :

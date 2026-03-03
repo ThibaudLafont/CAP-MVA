@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "568efe755eb8032c",
+            "id": "5fc8affda836e8c3",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_PROCÉDURES/PROC — Alimentation Essence — Rampe commune.md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur inductif.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "PROC — Alimentation Essence — Rampe commune"
+              "title": "SAV — Capteur — Capteur inductif"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 479.5,
+    "collapsed": true
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_PROCÉDURES/PROC — Pneumatique — Décoder un pneumatique.md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur inductif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROC — Pneumatique — Décoder un pneumatique"
+              "title": "Backlinks for SAV — Capteur — Capteur inductif"
             }
           },
           {
@@ -189,8 +190,7 @@
               "title": "File properties for PROC — Pneumatique — Décoder un pneumatique"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,10 +209,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "103bed5cb1fa1913",
+  "active": "5fc8affda836e8c3",
   "lastOpenFiles": [
-    "30_PROCÉDURES/PROC — Alimentation — Circuit, injection directe.md",
+    "30_PROCÉDURES/PROC — Électricité — Capteur inductif.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur à effet Hall.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur inductif.md",
+    "30_PROCÉDURES/PROC — Électricité — Capteur Hall.md",
+    "50_SYSTÈMES/SYS — ABS.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — ABS — Capteur de vitesse inductif.md",
     "30_PROCÉDURES/PROC — Alimentation Essence — Rampe commune.md",
+    "30_PROCÉDURES/PROC — Alimentation — Circuit, injection directe.md",
     "30_PROCÉDURES/PROC — Alimentation — Circuit, injection indirecte.md",
     "30_PROCÉDURES/PROC — Alimentation Diesel — Rampe commune.md",
     "30_PROCÉDURES/PROC — Alimentation Diesel — Pompe de gavage.md",
@@ -231,12 +237,6 @@
     "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
     "20_DIAGNOSTIC/DIAG — Échappement, Fumée bleue.md",
     "20_DIAGNOSTIC/DIAG — Échappement, Fumée blanche.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Admission — Turbocompresseur.md",
-    "20_DIAGNOSTIC/DIAG — symptome_principal.md",
-    "30_PROCÉDURES/PROC — Refroidissement — Contrôle étanchéité.md",
-    "00_ASSETS/ZOTERO/FICHES/Capteurs Controle.md",
-    "50_SYSTÈMES/SYS — Postcombution.md",
-    "50_SYSTÈMES/SYS — Pollution et antipollution.md",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-5-x54-y496.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y432.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y163.png",

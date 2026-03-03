@@ -10,15 +10,18 @@ Indiquer la vitesse d'un élément en mouvement par la génération d'un signal 
 - plaquette semi conductrice
 - aimant permanent
 - cible, une pièce métallique (roue percée, volant moteur)
+- transistor Darlington
 ## Principe de fonctionnement
 basé sur l'effet Hall : 
-- l'aimant engendre un champ magnétique dans lequel baigne le capteur
-- un courant électrique est fourni par le calculateur
-- il traverse la plaquette semi-conductrice
-- le signal varie lorsque la cible est face au capteur
+- un courant traverse la plaquette semi-conductrice
+- un champ magnétique perpendiculaire à ce courant est appliqué sur la plaquette
+- le champ magnétique est modifié lorsqu'un objet magnétique se déplace à proximité
+- cette perturbation magnétique entraîne une modification de tension appelée *tension de Hall* 
+	- proportionnelle à l’intensité du champ magnétique et à la tension dans la plaquette
+	- permet de déterminer si un objet métallique se situe à proximité
 ## Valeurs caractéristiques
 - **3 fils** 
-	1. alimentation (calculateur)
+	1. alimentation (calculateur) ; parfois il n'y. a que deux fils car l'alimentation est fournie par le circuit dans lequel le capteur est utilisé
 	2. masse
 	3. signal de retour vers calculateur
 - **alimentation** : en 5V, parfois 12V
@@ -34,7 +37,9 @@ basé sur l'effet Hall :
 - génère un signal électrique carrée
 - la fréquence indique la vitesse
 - a progressivement remplacé les capteurs inductifs, ABS, capteur AAC, capteur de vitesse
+- **Tension de hall** : tension produite par la modification du champ magnétique
 ## Références
 - @SysElecM2P306
 - @SysElecM2P305
 - [[30_PROCÉDURES/PROC — Électricité — Capteur Hall|PROC — Électricité — Capteur Hall]]
+- @LiaisonAuSolM2P319
