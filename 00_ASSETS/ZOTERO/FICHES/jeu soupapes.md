@@ -1,0 +1,33 @@
+Source : @MoteurM2P318
+
+**Pourquoi** : il faut laisser un jeu à froid entre la queue soupape et culbuteur
+- moteur chauffe >
+- éléments se dilatent
+- les soupapes sont en contact avec la chambre de combustion
+- elles se dilatent > risquent de rester ouvertes et compromettre l'étanchéité de la chambre de combustion
+
+**Comment si réglage mauel et culbuteur**
+- jeu de cale 
+
+**Méthode 1** : soupape d'échappement en plein ouverture 
+*Se référer au document constructeur*
+1. On place une soupape d'échappement en plein ouverture, puis on en règle deux autre
+	- Faire tourner le moteur par le vilebrequin et non par AAC
+	- Faire passer la cale entre la vis de réglage et la queue de soupape
+	- la lame doit forcer légèrement
+	- **Réglage** 
+		- Je laisse ma cale en place
+		- Je maintiens le contre-écrou 
+		- Je tourne la vis jusqu'au contact, puis je dévisse légèrement
+2. Au bout de 4 répétitions de l'opération, l'ensemble des soupapes sont réglées
+Exemple : 
+- Constructeur : 0,20 admission et 0,40
+- Cylindre 1 : soupape échappement en pleine ouverture
+	- Régler 2(admission) et 4(échappement)
+- Etc
+
+**Méthode B** : méthode en balance
+*S'applique à l'ensemble des moteurs* - il faut savoir quels pistons fonctionnent ensemble
+**Si 1-4 et 2-3**
+1. Je met 1 en balance : j'amène au PMH, fin d'échappement et début d'admission; j'abaisse la soupape d'échappement jusqu'à ce que la soupape d'admission s'ouvre. 
+	1. Je règle 4(admission, échappement)
