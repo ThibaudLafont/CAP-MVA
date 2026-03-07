@@ -10,7 +10,7 @@ source: zotero
 
 ---
 ## Objectif de la procédure
-Tester la compression des cylindres des cylindres 
+Mesurer la compression des cylindres afin d’évaluer l’état mécanique du moteur.
 ## Outillage nécessaire
 - Testeur de compression
 ## Étapes
@@ -18,13 +18,13 @@ Tester la compression des cylindres des cylindres
 2. Suivant la motorisation
 	1. **Essence** : 
 		- bobine et bougie si essence
-		- appuyer à fond sur l'accélérateur pour ouvrir le papillon des gazs
+		- appuyer à fond sur l'accélérateur pour ouvrir complètement le papillon
 	2. **Diesel** : bougie de préchauffage
 3. Brancher le testeur de compression
-4. Donner quelques tours moteurs avec le démarreur du véhicule
+4. Actionner le démarreur pendant quelques secondes
 5. Relever la valeurs et répéter l'opération sur chaque cylindre
 ## Valeurs attendues / Résultats
-- **Homogénéité entre les cylindres** (mieux vaut une compression basse et homogène qu'une compression hétérogène)
+- **Homogénéité entre les cylindres** (mieux vaut une compression basse et homogène qu'une compression hétérogène) : écart maximal, 10 à 15 %
 - **Essence** : 10 à 12 bars ; écart max 10 à 15%
 - **Diesel** : 25 à 30 bars
 ## Interprétation

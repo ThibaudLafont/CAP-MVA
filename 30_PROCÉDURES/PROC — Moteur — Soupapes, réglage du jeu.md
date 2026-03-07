@@ -10,10 +10,15 @@ source: zotero
 
 ---
 ## Objectif de la procédure
-Laisser du jeu à froid entre la queue de soupape et la vis de réglage
+Régler le jeu aux soupapes afin de respecter les valeurs constructeur.
 ## Outillage nécessaire
 - jeu de cales
 - documentation constructeur
+## Méthode 0 : générique
+1. Faire tourner le moteur jusqu'à la position indiquée par le constructeur  
+2. Insérer la cale entre la vis de réglage et la queue de soupape  
+3. Ajuster la vis jusqu'à obtenir un léger frottement de la cale  
+4. Bloquer le contre-écrou
 ## Méthode 1 : soupape d'échappement en plein ouverture
 *Se référer au document constructeur*
 1. On place une soupape d'échappement en plein ouverture, puis on en règle deux autre

@@ -19,7 +19,7 @@ Vérifier l'étanchéité des cylindres
 Moteur froid
 ### Procédure
 1. Déposer bobine et bougie
-2. Déposer capteur AAC échappement (pour visualiser la position du piston dans le cylindre)
+2. Repérer la position du piston afin de le placer au PMH compression (déposer capteur AAC échappement)
 3. Mettre le piston au PMH (en s'aidant de la tige et du trou du capteur PMH)
 4. Connecter l'adaptateur du contrôleur d'étanchéité uniquement, sans relier la partie sous pression
 5. Mettre la partie de l'outil connectée au compresseur à la pression préconisée (dans la vidéo, c'est 7 bars - valeur indicative)
