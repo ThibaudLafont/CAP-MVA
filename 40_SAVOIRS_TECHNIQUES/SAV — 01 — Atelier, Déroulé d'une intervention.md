@@ -9,7 +9,7 @@ Structurer une intervention mécanique de manière sécurisée et professionnell
 ## Étapes d’une intervention
 
 ### 1. Ordre de réparation (OR)
-Document décrivant l’intervention à réaliser.
+[[40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Ordre de réparation (OR)|SAV — 01 — Atelier, Ordre de réparation (OR)]] : Document décrivant l’intervention à réaliser.
 ### 2. Préparation
 - consulter la documentation constructeur
 - préparation de l’outillage
@@ -35,3 +35,4 @@ Garantit :
 ## Sources
 - @CAPManuscrit
 - @EnvProM1P102
+- @EnvProM2P325

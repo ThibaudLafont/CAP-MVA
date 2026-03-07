@@ -5,14 +5,14 @@ importance: haute
 source: zotero
 ---
 ## Fonction
-- Transformer le fluide gazeux HP en fluide liquide.
+Organiser le planning des réparations
 ## Composition
 -
 ## Principe de fonctionnement
-- Refroidissement par air extérieur + ventilateur.
-## Valeurs caractéristiques
 -
+## Valeurs caractéristiques
+- 20 % de créneaux libres sur un planning journalier pour la clientèle sans rendez-vous
 ## À savoir par cœur
 -
 ## Références
-- @ConfortSecuM1P301
+-

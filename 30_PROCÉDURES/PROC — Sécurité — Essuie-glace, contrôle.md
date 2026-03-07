@@ -25,7 +25,5 @@ Actionner les balais sur pare-brise mouillé
 - **Bruit, mouvement saccadé** : lame durcie ou jeu trop important entre porte-balai et balai
 - **Stries sur le pare-brise** : lame craquelée, déchirée, vieillissante
 ## Interprétation
-- Résultat conforme :
-- Résultat non conforme :
 ## Références
 - @ConfortSecuM2P321

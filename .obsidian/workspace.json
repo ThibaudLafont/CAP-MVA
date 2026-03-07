@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f161b05dfca9bbe0",
+        "id": "c4f4a4ff9bee573b",
         "type": "tabs",
         "children": [
           {
-            "id": "a012ec921178843e",
+            "id": "4a1be1b363dc0570",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "30_PROCÉDURES/PROC — Refroidissement — Contrôle général.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PROC — Refroidissement — Contrôle général"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "30_PROCÉDURES/PROC — Refroidissement — Contrôle général.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for PROC — Refroidissement — Contrôle général"
             }
           },
           {
@@ -201,34 +206,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a012ec921178843e",
+  "active": "4a1be1b363dc0570",
   "lastOpenFiles": [
-    "00_ASSETS/ZOTERO/FICHES/jeu soupapes.md",
-    "30_PROCÉDURES/PROC — Moteur — Soupapes, réglage du jeu.md",
+    "30_PROCÉDURES/PROC — Refroidissement — Contrôle niveau et antigel LDR.md",
+    "10_MAINTENANCE/MAINT — Refroidissement — Circuit de refroidissement.md",
+    "30_PROCÉDURES/PROC — Refroidissement — Contrôle général.md",
+    "30_PROCÉDURES/PROC — Refroidissement — Contrôle étanchéité du circuit.md",
+    "30_PROCÉDURES/PROC — Refroidissement — Contrôle bouchon de vase d'expansion.md",
+    "30_PROCÉDURES/PROC — Climatisation — Remplacement du pressostat.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Planning.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Déroulé d'une intervention.md",
     "30_PROCÉDURES/PROC — Sécurité — Essuie-glace, contrôle.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Sécurité — Balais d'essuie-glace.md",
-    "30_PROCÉDURES/PROC — Pyrotechnie, Airbag — Contrôle.md",
-    "90_ANKI_SOURCES/ANKI — objet.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pyrotechnie — Airbag.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur inductif.md",
-    "20_DIAGNOSTIC/DIAG — Témoin airbag.md",
-    "30_PROCÉDURES/PROC — Électricité — Capteur inductif.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Capteur à effet Hall.md",
-    "30_PROCÉDURES/PROC — Électricité — Capteur Hall.md",
-    "50_SYSTÈMES/SYS — ABS.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — ABS — Capteur de vitesse inductif.md",
-    "30_PROCÉDURES/PROC — Alimentation Essence — Rampe commune.md",
-    "30_PROCÉDURES/PROC — Alimentation — Circuit, injection directe.md",
-    "30_PROCÉDURES/PROC — Alimentation — Circuit, injection indirecte.md",
-    "30_PROCÉDURES/PROC — Alimentation Diesel — Rampe commune.md",
-    "30_PROCÉDURES/PROC — Alimentation Diesel — Pompe de gavage.md",
-    "30_PROCÉDURES/PROC — Alimentation — Prérequis.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Alimentation Diesel — Injecteur.md",
-    "00_ASSETS/ZOTERO/FICHES/Contrôle étanchéité.md",
-    "30_PROCÉDURES/PROC — Électricité — Débitmètre.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Débitmètre.md",
-    "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (amont).md",
-    "30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (aval).md",
+    "40_SAVOIRS_TECHNIQUES/SAV — LOS — Pneumatique.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Tuyauterie de climatisation.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Sonde évaporateur de climatisation.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Pressostat de climatisation.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Fluide frigorigène.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Évaporateur de climatisation.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Détendeur de climatisation.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Condenseur de climatisation.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Compresseur de climatisation.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Capteur de pression climatisation.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Bouteille de déshydratation.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Ordre de réparation (OR).md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Sécurité — Ceinture de sécurité.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Temps barémés.md",
+    "00_ASSETS/ZOTERO/FICHES/COntraintes organisationnelles.md",
+    "10_MAINTENANCE/MAINT — HVAC — Climatisation.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — HVAC — Filtre habitacle.md",
+    "00_ASSETS/ZOTERO/zotero-ISO.json",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-5-x54-y496.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y432.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y163.png",
@@ -248,7 +254,6 @@
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120",
     "00_ASSETS/IMAGES/ZOTERO/1769078956000_EnvProM1P106",
     "00_ASSETS/IMAGES/ZOTERO/1769099018000_MoteurM2P311",
-    "00_ASSETS/IMAGES/ZOTERO/MoteurM2P311",
     "Untitled.canvas"
   ]
 }
