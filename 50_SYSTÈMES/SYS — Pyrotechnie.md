@@ -16,3 +16,4 @@ Assurer la [[40_SAVOIRS_TECHNIQUES/SAV — 00 — Sécurité active|SAV — 00 �
 -
 ## Références
 - @ConfortSecuM1P304
+- @ConfortSecuM2P320
