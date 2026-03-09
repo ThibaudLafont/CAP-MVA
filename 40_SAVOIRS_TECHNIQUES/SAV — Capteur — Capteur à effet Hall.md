@@ -41,5 +41,5 @@ basé sur l'effet Hall :
 ## Références
 - @SysElecM2P306
 - @SysElecM2P305
-- [[30_PROCÉDURES/PROC — Électricité — Capteur Hall|PROC — Électricité — Capteur Hall]]
+- [[30_PROCÉDURES/PROC — Capteur — Capteur Hall|PROC — Capteur — Capteur Hall]]
 - @LiaisonAuSolM2P319

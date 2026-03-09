@@ -28,7 +28,7 @@ Dommage, usure, connectique
 #### Voltmètre
 1. Voltmètre : sortie capteur débit et masse
 2. Moteur tournant
-3. Valeur attendue : oscillation entre 0,5 et 5V (tension variable en fonction du débit)
+3. Valeur attendue : entre 0,5 et 5V (tension variable en fonction du débit)
 ##### Valise ODB
 1. Moteur en marche
 2. Lire les données de masse d'air
@@ -39,13 +39,15 @@ Dommage, usure, connectique
 2. Moteur tournant
 3. Valeur attendue : vérifier avec RTA
 ### Contrôle de l'alimentation du capteur de température
-[[30_PROCÉDURES/PROC — Électricité — Capteur de température à résistance variable|PROC — Électricité — Capteur de température à résistance variable]]
+[[30_PROCÉDURES/PROC — Capteur — Capteur de température à résistance variable|PROC — Capteur — Capteur de température à résistance variable]]
 ## Valeurs attendues / Résultats
 - **alimentation du capteur** : 5V
 - **alimentation du chauffage** : 12V
-- **signal électrique capteur débit** : tension oscillant entre 0,5 et 5V (tension variable en fonction du débit)
+- **signal électrique capteur débit** : signal variable entre 0,5 et 5 V (tension variable en fonction du débit)
 - **thermistance** : tension variable entre 0,5 et 5V (tension variable en fonction du débit)
 ## Interprétation
+- Résultat conforme : capteur OK
+- Résultat non conforme : remplacer capteur
 ## Références
 - @SysElecM2P306
 - @SysElecM2P305

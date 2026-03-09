@@ -49,4 +49,4 @@ Informer de la quantité d'air (entrant dans le moteur ou passant par la vanne E
 ## Références
 - @SysElecM2P306
 - @SysElecM2P305
-- [[30_PROCÉDURES/PROC — Électricité — Débitmètre|PROC — Électricité — Débitmètre]]
+- [[30_PROCÉDURES/PROC — Capteur — Débitmètre|PROC — Capteur — Débitmètre]]

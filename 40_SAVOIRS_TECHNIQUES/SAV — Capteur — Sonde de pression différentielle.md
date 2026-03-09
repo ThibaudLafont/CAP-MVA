@@ -24,4 +24,4 @@ Déclenche le décolmatage du filtre à particule
 - @SysElecM2P306
 - @SysElecM2P305
 - [[40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Capteur de pression climatisation|SAV — Climatisation — Capteur de pression climatisation]]
-- [[30_PROCÉDURES/PROC — Électricité — Capteur de pression piézorésistif|PROC — Électricité — Capteur de pression piézorésistif]]
+- [[30_PROCÉDURES/PROC — Capteur — Capteur de pression piézorésistif|PROC — Capteur — Capteur de pression piézorésistif]]

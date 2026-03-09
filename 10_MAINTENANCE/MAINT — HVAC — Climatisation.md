@@ -11,9 +11,14 @@ source: zotero
 ---
 ## Périodicité
 - Kilométrage :
-- Temps : 2ans
-- Conditions particulières :
-	- Désembuage non fonctionnel
+- Temps : 
+	- contrôle gaz : 2 ans  
+	- contrôle circuit : 1 an  
+	- désinfection : si odeur  
+- Conditions particulières 
+	- débit d'air : doit être suffisant
+	- air pulsé : doit être frais
+	- odeur : pas de mauvaise odeur
 ## Opérations à effectuer
 
 ## Points de vigilance

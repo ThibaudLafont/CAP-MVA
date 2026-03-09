@@ -18,7 +18,7 @@ Vérifier le bon fonctionnement d’un relais électrique.
 ## Étapes
 ### 0. Rappels
 Bornes : 
-- **circuit de commande** : (86-66)(2-1)
+- **circuit de commande** : (86-85)(2-1)
 - **circuit de puissance** : (30-87)
 - **circuit de puissance repos (5 broches)** : (30-87a)
 

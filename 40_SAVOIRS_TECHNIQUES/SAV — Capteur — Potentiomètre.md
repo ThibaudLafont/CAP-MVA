@@ -26,4 +26,4 @@ résistance variable
 ## Références
 - @SysElecM2P306
 - @SysElecM2P305
-- [[30_PROCÉDURES/PROC — Électricité — Potentiomètre|PROC — Électricité — Potentiomètre]]
+- [[30_PROCÉDURES/PROC — Capteur — Potentiomètre|PROC — Capteur — Potentiomètre]]

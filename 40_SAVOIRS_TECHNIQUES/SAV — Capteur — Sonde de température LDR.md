@@ -25,4 +25,4 @@ Informe le calculateur de la température du liquide de refroidissement.
 - @SysElecM2P306
 - @SysElecM2P305
 - @MoteurM2P313
-- [[30_PROCÉDURES/PROC — Électricité — Capteur de température à résistance variable|PROC — Électricité — Capteur de température à résistance variable]]
+- [[30_PROCÉDURES/PROC — Capteur — Capteur de température à résistance variable|PROC — Capteur — Capteur de température à résistance variable]]

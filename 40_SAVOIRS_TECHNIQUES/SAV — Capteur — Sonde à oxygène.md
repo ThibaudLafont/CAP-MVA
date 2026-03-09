@@ -45,5 +45,5 @@ Informe de la qualité de la combustion par la mesure des gaz d'échappement
 - @PollutionM2P302
 - @SysElecM2P306
 - @SysElecM2P305
-- [[30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (aval)|PROC — Électricité — Sonde à oxygène (aval)]]
-- [[30_PROCÉDURES/PROC — Électricité — Sonde à oxygène (amont)|PROC — Électricité — Sonde à oxygène (amont)]]
+- [[30_PROCÉDURES/PROC — Capteur — Sonde à oxygène (aval)|PROC — Capteur — Sonde à oxygène (aval)]]
+- [[30_PROCÉDURES/PROC — Capteur — Sonde à oxygène (amont)|PROC — Capteur — Sonde à oxygène (amont)]]

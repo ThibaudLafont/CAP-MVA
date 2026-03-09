@@ -16,15 +16,6 @@ source: zotero
 - documents techniques
 - caisse à outils
 - nettoyant antibactérien
-## Périodicité
-- **contrôler et recharger le gaz** : tous les deux ans
-- **entretenir et vérifier le circuit** : tous les ans
-- **désinfection des conduits** : si odeur
-- **filtre habitacle** : 2 ans, contrôle visuel, mauvaises odeurs
-- **Points à surveiller**
-	- débit d'air : doit être suffisant
-	- air pulsé : doit être frais
-	- odeur : pas de mauvaise odeur
 ## Étapes
 **Attestation d'aptitude obligatoire** 
 - depuis le décret 2007-737 sur les fluides frigorigènes
@@ -33,7 +24,7 @@ source: zotero
 **1. Contrôle de la quantité de fréon**
 1. Allumer la climatisation : vérifier la température 
 2. Allumer le désembuage : vérifier le fonctionnement
-L'un ou l'autre des symptômes peut indiquer un dysfonctionnement de la climatisation.
+*L'un ou l'autre des symptômes peut indiquer un dysfonctionnement de la climatisation.*
 
 **2. Recharger le fréon**
 1. Brancher la prise haute pression (rouge)

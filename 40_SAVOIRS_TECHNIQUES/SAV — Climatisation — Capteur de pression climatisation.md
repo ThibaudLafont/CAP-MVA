@@ -19,4 +19,4 @@ source: zotero
 ## Références
 - @ConfortSecuM1P301
 - [[40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Capteur de pression climatisation|SAV — Climatisation — Capteur de pression climatisation]]
-- [[30_PROCÉDURES/PROC — Électricité — Capteur de pression piézorésistif|PROC — Électricité — Capteur de pression piézorésistif]]
+- [[30_PROCÉDURES/PROC — Capteur — Capteur de pression piézorésistif|PROC — Capteur — Capteur de pression piézorésistif]]
