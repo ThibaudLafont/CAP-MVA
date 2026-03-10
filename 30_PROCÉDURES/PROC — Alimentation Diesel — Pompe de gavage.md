@@ -13,7 +13,7 @@ Vérifier la pression et le débit de la pompe de gavage
 ### Sécurité et prérequis
 [[30_PROCÉDURES/PROC — Alimentation — Prérequis|PROC — Alimentation — Prérequis]]
 ### Pression
-1. Brancher un Té et le manomètre **juste avant la pompe HP**
+1. Brancher un Té et le manomètre **juste avant la pompe HP**, sur la ligne basse pression
 #### Valeurs attendues
 - 3 à 5 bars
 ### Débit

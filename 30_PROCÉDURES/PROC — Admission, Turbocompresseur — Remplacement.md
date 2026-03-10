@@ -14,7 +14,7 @@ Remplacer le turbocompresseur
 ## Outillage nécessaire
 -
 ## Étapes
-1. [[30_PROCÉDURES/PROC — Admission, Turbocompresseur — Remplacement|PROC — Admission, Turbocompresseur — Remplacement]] : maintenance demande un diagnostic car réparation délicate et onéreuse 
+1. [[30_PROCÉDURES/PROC — Admission, Turbocompresseur  — Diagnostic|PROC — Admission, Turbocompresseur  — Diagnostic]] : maintenance demande un diagnostic car réparation délicate et onéreuse 
 2. **Procédure constructeur** : parfois l'intervention sur un turbo entraîne nécessairement le remplacement de pièces périphériques (tuyau d'arrivée d'huile, joints de turbo, injecteurs)
 3. **Vérifier et nettoyer le circuit d'air**
 	1. Vérifier si l'écrou de fixation de le roue de compresseur est présent, sinon prévoir un nouveau

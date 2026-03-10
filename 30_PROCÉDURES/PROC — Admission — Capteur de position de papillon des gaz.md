@@ -38,8 +38,8 @@ Vérifier le fonctionnement du capteur de position des papillons des gaz
 ## Valeurs attendues / Résultats
 - P0120, P0121, P0122, P0123 ou P2135 : problème avec le capteur de position de papillon
 - **tension** : doit varier de façon régulière et constante
-	1. piste montante : 1 à 5v
-	2. piste descendante : 5 à 1v
+	1. piste montante : 0,5V à 4,5v
+	2. piste descendante : 4,5V à 0,5V
 ## Interprétation
 - Résultat conforme :
 - Résultat non conforme :

@@ -4,142 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c4f4a4ff9bee573b",
+        "id": "cd9097c896d758db",
         "type": "tabs",
         "children": [
           {
-            "id": "73cfdbe465dd3f3e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — 00 — Test électrique.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "PROC — 00 — Test électrique"
-            }
-          },
-          {
-            "id": "649613d94897141a",
+            "id": "580ace02a0a264ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_PROCÉDURES/PROC — 00 — Test thermique.md",
+                "file": "30_PROCÉDURES/PROC — Admission, Turbocompresseur — Remplacement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROC — 00 — Test thermique"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "dcabb55032ca8945",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c56e36fd5b9824c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — Capteur — Thermostat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — Capteur — Thermostat"
-            }
-          },
-          {
-            "id": "a1e479607c67adf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — Capteur — Thermocontact.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — Capteur — Thermocontact"
-            }
-          },
-          {
-            "id": "70e6d4c84b84ab70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — 00 — Test thermique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — 00 — Test thermique"
-            }
-          },
-          {
-            "id": "35a5efb888581151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — 00 — Test de pression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — 00 — Test de pression"
-            }
-          },
-          {
-            "id": "d672fb317b2c0f5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — 00 — Test dynamique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — 00 — Test dynamique"
-            }
-          },
-          {
-            "id": "2e3c70acea46594f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — 00 — Test mécanique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — 00 — Test mécanique"
-            }
-          },
-          {
-            "id": "16d0ed91763eb63d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — 00 — Test d’étanchéité.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — 00 — Test d’étanchéité"
+              "title": "PROC — Admission, Turbocompresseur — Remplacement"
             }
           }
         ]
@@ -199,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 243.5
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -215,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_PROCÉDURES/PROC — 00 — Test thermique.md",
+                "file": "30_PROCÉDURES/PROC — Admission, Turbocompresseur — Remplacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROC — 00 — Test thermique"
+              "title": "Backlinks for PROC — Admission, Turbocompresseur — Remplacement"
             }
           },
           {
@@ -327,9 +206,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "649613d94897141a",
+  "active": "580ace02a0a264ed",
   "lastOpenFiles": [
-    "30_PROCÉDURES/PROC — Capteur — Thermostat.md",
+    "30_PROCÉDURES/PROC — Admission, Turbocompresseur  — Diagnostic.md",
+    "30_PROCÉDURES/PROC — Admission — Vérification du circuit.md",
+    "30_PROCÉDURES/PROC — Admission — Capteur de position de papillon des gaz.md",
+    "30_PROCÉDURES/PROC — Admission — Actionneur papillon des gaz.md",
+    "30_PROCÉDURES/PROC — Admission, Turbocompresseur — Remplacement.md",
+    "30_PROCÉDURES/PROC — Alimentation Essence — Injecteur.md",
+    "30_PROCÉDURES/PROC — Alimentation Diesel — Rampe commune.md",
+    "30_PROCÉDURES/PROC — Alimentation Diesel — Pompe de gavage.md",
+    "30_PROCÉDURES/PROC — Alimentation Diesel — Injecteur.md",
+    "30_PROCÉDURES/PROC — Alimentation — Prérequis.md",
+    "30_PROCÉDURES/PROC — 00 — Test électrique.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Règles de sécurité systèmes pyrotechniques.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Règles de sécurité alimentation carburant.md",
+    "30_PROCÉDURES/PROC — Refroidissement — Thermostat.md",
+    "30_PROCÉDURES/PROC — Alimentation Essence — Rampe commune.md",
+    "30_PROCÉDURES/PROC — Climatisation — Contrôle.md",
+    "30_PROCÉDURES/PROC — Climatisation — Remplacement du pressostat.md",
+    "30_PROCÉDURES/PROC — 00 — Test thermique.md",
     "30_PROCÉDURES/PROC — Capteur — Thermocontact.md",
     "30_PROCÉDURES/PROC — Capteur — Sonde à oxygène (aval).md",
     "30_PROCÉDURES/PROC — Capteur — Sonde à oxygène (amont).md",
@@ -338,23 +234,7 @@
     "30_PROCÉDURES/PROC — Capteur — Capteur Hall.md",
     "30_PROCÉDURES/PROC — Capteur — Capteur de température à résistance variable.md",
     "30_PROCÉDURES/PROC — Capteur — Capteur de pression piézorésistif.md",
-    "30_PROCÉDURES/PROC — Capteur — Débitmètre.md",
-    "30_PROCÉDURES/PROC — 00 — Test thermique.md",
-    "30_PROCÉDURES/PROC — 00 — Test électrique.md",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-7-x290-y99.png",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — Thermostat.md",
-    "30_PROCÉDURES/PROC — 00 — Test mécanique.md",
-    "30_PROCÉDURES/PROC — 00 — Test dynamique.md",
-    "30_PROCÉDURES/PROC — 00 — Test de pression.md",
-    "30_PROCÉDURES/PROC — 00 — Test d’étanchéité.md",
-    "30_PROCÉDURES/PROC — Capteur — Tester un relais.md",
-    "30_PROCÉDURES/PROC — HVAC — Remplacement du filtre habitacle.md",
-    "50_SYSTÈMES/SYS — Admission.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — LOS — Pneumatique.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Tuyauterie de climatisation.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Sonde évaporateur de climatisation.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Pressostat de climatisation.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Climatisation — Fluide frigorigène.md",
     "00_ASSETS/ZOTERO/zotero-ISO.json",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-5-x54-y496.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y432.png",

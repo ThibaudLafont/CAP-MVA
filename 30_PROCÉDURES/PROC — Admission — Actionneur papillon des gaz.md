@@ -21,7 +21,7 @@ Vérifier le bon fonctionnement de l'actionneur du papillon des gaz
 ### Vérifier les connexion électriques
 1. serrées, propres, non oxydées
 2. sinon nettoyer avec nettoyant pour capteurs
-### Mesurer la résistance
+### Mesurer la résistance (si la RTA le prévoit)
 1. Mesure la résistance
 2. comparer aux valeurs de la RTA
 ### Moteur pas à pas

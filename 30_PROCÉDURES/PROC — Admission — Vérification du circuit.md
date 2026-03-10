@@ -19,6 +19,7 @@ Vérifier le circuit d'air
 3. Vérifier les zones d'entrées et de sortie d'air 
 4. Vérifier l'obstruction et l'écrasement des circuits
 5. Retirer tout résidu d'huile du système d'admission d'air
+6. 6 Vérifier l'absence de fuite d'air
 ## Valeurs attendues / Résultats
 -
 ## Interprétation

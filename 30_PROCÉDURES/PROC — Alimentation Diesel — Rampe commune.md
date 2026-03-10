@@ -25,7 +25,9 @@ Vérifier la pression dans la rampe commune
 	1. les températures fluides (admission, carburant, moteur)
 	2. pression du collecteur d'admission
 ## Valeurs attendues / Résultats
-- **Pression** : très variable selon régime et charge (lecture constructeur) (280 bars dans la rampe dans vidéo S&Y)
+- **Pression** : très variable selon régime et charge (≈250 à 2000 bars)
+	- *ralenti* : ~250–350 bars 
+	- *charge* : jusqu’à 1500–2000 bars
 ## Interprétation
 - Résultat conforme : 
 - Résultat non conforme :

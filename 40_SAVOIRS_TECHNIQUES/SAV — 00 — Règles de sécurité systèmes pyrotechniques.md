@@ -22,3 +22,4 @@ L'utilisation d'un ohmmètre envoie une faible tension pour vérifier la résist
 - prétensionneurs de ceinture
 - générateurs de gaz
 ## Liens système
+- [[50_SYSTÈMES/SYS — Pyrotechnie|SYS — Pyrotechnie]]

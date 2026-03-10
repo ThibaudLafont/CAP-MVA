@@ -16,29 +16,23 @@ Vérifier le fonctionnement des injecteurs
 - Kit de test du retour de carburant (éprouvettes graduées, durites)
 - Valise ODB
 ## Étapes
-### Vérifier la rampe commune
-[[30_PROCÉDURES/PROC — Alimentation Diesel — Rampe commune|PROC — Alimentation Diesel — Rampe commune]]
-### Vérifier l'alimentation
-1. Vérifier aux bornes d'alimentation de l'injecteur
-### Vérifier la résistance
-1. Couper le contact
-2. Débrancher l'injecteur
-3. Mesurer la résistance
-### Vérifier la correction du débit des injecteurs
-1. Se connecter en ODB
-2. Vérfier et comparer les valeurs
-### Retour des injecteurs
-1. Débrancher les retours
-2. Connecter le kit 
-3. Vérifier les valeurs
+1. [[40_SAVOIRS_TECHNIQUES/SAV — 00 — Règles de sécurité alimentation carburant|SAV — 00 — Règles de sécurité alimentation carburant]]
+2. [[30_PROCÉDURES/PROC — Alimentation Diesel — Rampe commune|PROC — Alimentation Diesel — Rampe commune]]
+3. [[30_PROCÉDURES/PROC — 00 — Test électrique|PROC — 00 — Test électrique]] 
+	1. tension analogique aux bornes d'alimentation de l'injecteur
+	2. résistance aux bornes de l'injecteur (contact coupé, injecteur débranché)
+4. [[30_PROCÉDURES/PROC — 00 — Test dynamique|PROC — 00 — Test dynamique]] :  correction du débit des injecteurs
+5. [[30_PROCÉDURES/PROC — 00 — Test dynamique|PROC — 00 — Test dynamique]] : retour des injecteurs 
+	1. Débrancher les retours
+	2. Connecter le kit 
+	3. Vérifier les valeurs
+
 ## Valeurs attendues / Résultats
 - **Résistance** : selon constructeur (forte variabilité selon type d’injecteur)
 - **Correction du débit** : selon constructeur
 	- valeur sans unité (entre 0,8 et 1,2 dans la vidéo S&Y)
-	- pallie à l'usure (plus l'injecteur est vieux et plus il injecte de carburant)
-	- pris en compte par le calculateur
-	- renseigne sur le vieillissement des injecteurs
-	- si un injecteur a une correction + haute : le faire vérifier
+	- la correction compense les écarts de débit liés à l’usure, qui augmente les fuites internes (plus l'injecteur est usé et plus le calculateur le corrige pour qu'il injecte plus de carburant)
+	- **si un injecteur a une correction + haute : le faire vérifier**
 - **Retour** : 
 	- selon constructeur (30ml/5min ralenti dans vidéo S&Y)
 	- si un est très différent : à faire contrôler

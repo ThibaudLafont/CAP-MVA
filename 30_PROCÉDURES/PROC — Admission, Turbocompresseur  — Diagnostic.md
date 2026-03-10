@@ -47,7 +47,7 @@ Diagnostiquer un turbocompresseur pour identifier le défaut
 		1. Vérification du circuit d'air
 		2. dépose et remplacement du turbocompresseur
 ## Valeurs attendues / Résultats
-- 0,13mm de jeu axial
+- 0,13mm de jeu axial (0,05 à 0,15 mm)
 ## Interprétation
 - Résultat conforme :
 - Résultat non conforme :
