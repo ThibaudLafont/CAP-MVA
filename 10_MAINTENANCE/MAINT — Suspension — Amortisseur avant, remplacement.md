@@ -13,7 +13,7 @@ source: zotero
 - Kilométrage : selon usure (≈ 70 000 à 150 000 km)
 - Temps : -
 - Conditions particulières :
-	- fuite d'hile
+	- fuite d'huile
 ## Opérations à effectuer
 1. Libérer la biellette de suspension de l'amortisseur
 2. **Libérer le porte-fusée** : rotule de suspension, rotule de direction
