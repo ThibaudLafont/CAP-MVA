@@ -43,12 +43,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — LOS — Rotule de direction.md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — LOS — Pneumatique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — LOS — Rotule de direction"
+              "title": "SAV — LOS — Pneumatique"
+            }
+          },
+          {
+            "id": "580e455676a63ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_PROCÉDURES/PROC — LOS — Décoder un pneumatique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROC — LOS — Décoder un pneumatique"
             }
           },
           {
@@ -94,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -168,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_PROCÉDURES/PROC — LOS — Rotule de direction, remplacement.md",
+                "file": "30_PROCÉDURES/PROC — LOS — Décoder un pneumatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROC — LOS — Rotule de direction, remplacement"
+              "title": "Backlinks for PROC — LOS — Décoder un pneumatique"
             }
           },
           {
@@ -280,9 +293,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3303adb1d45b5e8",
+  "active": "580e455676a63ad5",
   "lastOpenFiles": [
+    "40_SAVOIRS_TECHNIQUES/SAV — LOS — Pneumatique.md",
+    "30_PROCÉDURES/PROC — LOS — Décoder un pneumatique.md",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P121/LiaisonAuSolM1P121-4-x85-y593.png",
     "40_SAVOIRS_TECHNIQUES/SAV — LOS — Rotule de direction.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — system — objet.md",
     "30_PROCÉDURES/PROC — LOS — Rotule de direction, remplacement.md",
     "10_MAINTENANCE/MAINT — HVAC — Climatisation.md",
     "30_PROCÉDURES/PROC — LOS — Roulement de roue, diagnostic.md",
@@ -304,10 +321,6 @@
     "40_SAVOIRS_TECHNIQUES/SAV — Freinage — Flexible de frein.md",
     "10_MAINTENANCE/MAINT — Freinage — Flexible de frein.md",
     "30_PROCÉDURES/PROC — Freinage — Purge du circuit.md",
-    "00_ASSETS/ZOTERO/FICHES/Servofrein.md",
-    "30_PROCÉDURES/PROC — Sécurité — Essuie-glace, contrôle.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Règles de sécurité systèmes pyrotechniques.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Règles de sécurité alimentation carburant.md",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-7-x290-y99.png",
     "00_ASSETS/ZOTERO/zotero-ISO.json",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-5-x54-y496.png",
@@ -324,7 +337,6 @@
     "00_ASSETS/IMAGES/OLD/Bougie d'allumage.png",
     "00_ASSETS/IMAGES/OLD",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-10-x85-y101.png",
-    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120/LiaisonAuSolM1P120-10-x79-y360.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120",
     "00_ASSETS/IMAGES/ZOTERO/1769078956000_EnvProM1P106",
     "00_ASSETS/IMAGES/ZOTERO/1769099018000_MoteurM2P311",

@@ -9,11 +9,12 @@ Assurer le contact entre le véhicule et la route en supportant la charge et en 
 ## Composition
 ![[00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P121/LiaisonAuSolM1P121-undefined-x290-y393.png|250]]
 
-- **sculptures**
-- **bande de roulement**
-- **flanc**
+- **sculptures** : permet l'évacuation de l'eau
+- **bande de roulement** : couche de gomme épaisse en contact avec la route
+- **flanc** : gomme souple, fait pour supporter déformations et chocs
 - **carcasse**
-- **talon**
+- **talon** : anneaux métalliques, accroche le pneu à la jante, permet l'étanchéité, 
+*fibres, cables, textile*
 ## Principe de fonctionnement
 Le pneumatique se déforme au contact du sol afin d’assurer l’adhérence et l’amortissement des irrégularités.
 ## Valeurs caractéristiques  
@@ -24,8 +25,12 @@ Le pneumatique se déforme au contact du sol afin d’assurer l’adhérence et 
 - Large de flanc à flanc
 - hauteur
 - diamètre intérieur
+- structure : 
+	- **radiale** meilleure tenue de route, plus confortable, plus durable
+	- **diagonale** : plus robuste mais moins précise sur route
 ## À savoir par cœur
 - sculpture >= 1.6mm
 - durée de vie : 50 000km
 ## Références
+- @LiaisonAuSolM2P102
 - @LiaisonAuSolM1P121
