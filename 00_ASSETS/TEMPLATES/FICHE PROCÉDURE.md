@@ -11,6 +11,8 @@ source: zotero
 ---
 ## Objectif de la procédure
 -
+## Points de vigilance
+## Risques en cas de non-respect
 ## Outillage nécessaire
 -
 ## Étapes
@@ -23,4 +25,4 @@ source: zotero
 - Résultat conforme :
 - Résultat non conforme :
 ## Références
-- Zotero :
+- 

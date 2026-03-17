@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6f13c42e08aed33",
+        "id": "581e10fcd6e2763b",
         "type": "tabs",
         "children": [
           {
-            "id": "35ea99c5b8b36889",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — LOS — Roulement de roue, diagnostic.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "PROC — LOS — Roulement de roue, diagnostic"
-            }
-          },
-          {
-            "id": "c3303adb1d45b5e8",
+            "id": "be9f450935dd2208",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,79 +20,8 @@
               "icon": "lucide-file",
               "title": "PROC — LOS — Rotule de direction, remplacement"
             }
-          },
-          {
-            "id": "452709988e6f1704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — LOS — Pneumatique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — LOS — Pneumatique"
-            }
-          },
-          {
-            "id": "580e455676a63ad5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — LOS — Décoder un pneumatique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — LOS — Décoder un pneumatique"
-            }
-          },
-          {
-            "id": "6743491aa0884bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — LOS — Rotule de direction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — LOS — Rotule de direction"
-            }
-          },
-          {
-            "id": "413683f639ccd46d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_DIAGNOSTIC/DIAG — Bruit sourd qui augmente avec la vitesse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DIAG — Bruit sourd qui augmente avec la vitesse"
-            }
-          },
-          {
-            "id": "f59be1ae0d6fe1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — LOS — Roulement de roue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — LOS — Roulement de roue"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -181,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_PROCÉDURES/PROC — LOS — Décoder un pneumatique.md",
+                "file": "30_PROCÉDURES/PROC — LOS — Rotule de direction, remplacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROC — LOS — Décoder un pneumatique"
+              "title": "Backlinks for PROC — LOS — Rotule de direction, remplacement"
             }
           },
           {
@@ -293,19 +207,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "580e455676a63ad5",
+  "active": "be9f450935dd2208",
   "lastOpenFiles": [
-    "40_SAVOIRS_TECHNIQUES/SAV — LOS — Pneumatique.md",
-    "30_PROCÉDURES/PROC — LOS — Décoder un pneumatique.md",
-    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P121/LiaisonAuSolM1P121-4-x85-y593.png",
-    "40_SAVOIRS_TECHNIQUES/SAV — LOS — Rotule de direction.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — system — objet.md",
-    "30_PROCÉDURES/PROC — LOS — Rotule de direction, remplacement.md",
-    "10_MAINTENANCE/MAINT — HVAC — Climatisation.md",
-    "30_PROCÉDURES/PROC — LOS — Roulement de roue, diagnostic.md",
     "30_PROCÉDURES/PROC — LOS — Roulement de roue, remplacement.md",
+    "30_PROCÉDURES/PROC — LOS — Roulement de roue, diagnostic.md",
+    "10_MAINTENANCE/MAINT — LOS — Géométrie.md",
+    "10_MAINTENANCE/MAINT — Éclairage — Contrôle et réglage des feux.md",
+    "00_ASSETS/TEMPLATES/FICHE MAINTENANCE.md",
+    "30_PROCÉDURES/PROC — Atelier — Pont élévateur 2 colonnes.md",
+    "00_ASSETS/ZOTERO/FICHES/Périodicités à reprendre.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Normes éclairage.md",
+    "10_MAINTENANCE/MAINT — Refroidissement — Circuit de refroidissement.md",
+    "30_PROCÉDURES/PROC — LOS — Géométrie.md",
     "40_SAVOIRS_TECHNIQUES/SAV — LOS — Roulement de roue.md",
     "20_DIAGNOSTIC/DIAG — Bruit sourd qui augmente avec la vitesse.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — LOS — Rotule de direction.md",
+    "00_ASSETS/TEMPLATES/FICHE PROCÉDURE.md",
+    "30_PROCÉDURES/PROC — LOS — Décoder un pneumatique.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — LOS — Pneumatique.md",
+    "30_PROCÉDURES/PROC — LOS — Rotule de direction, remplacement.md",
+    "10_MAINTENANCE/MAINT — HVAC — Climatisation.md",
+    "10_MAINTENANCE/MAINT — Bougie d'allumage — moteur essence.md",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P121/LiaisonAuSolM1P121-4-x85-y593.png",
     "00_ASSETS/ZOTERO/FICHES/Roulement de roue.md",
     "PROC —.md",
     "10_MAINTENANCE/MAINT — Suspension — Amortisseur avant, remplacement.md",
@@ -313,14 +236,6 @@
     "40_SAVOIRS_TECHNIQUES/SAV — Suspension — Amortisseur.md",
     "10_MAINTENANCE/MAINT — Freinage — Plaquettes, remplacement.md",
     "30_PROCÉDURES/PROC — Freinage — Servofrein, remplacement.md",
-    "10_MAINTENANCE/MAINT — Freinage — Servofrein.md",
-    "30_PROCÉDURES/PROC — Freinage — Servofrein, contrôle.md",
-    "10_MAINTENANCE/MAINT — Freinage — Purge du circuit hydraulique.md",
-    "30_PROCÉDURES/PROC — Freinage — Frein à main, réglage.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Freinage — Servofrein.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Freinage — Flexible de frein.md",
-    "10_MAINTENANCE/MAINT — Freinage — Flexible de frein.md",
-    "30_PROCÉDURES/PROC — Freinage — Purge du circuit.md",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-7-x290-y99.png",
     "00_ASSETS/ZOTERO/zotero-ISO.json",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-5-x54-y496.png",
