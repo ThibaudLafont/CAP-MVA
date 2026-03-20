@@ -5,9 +5,6 @@
   {"id":"arSUSPENSIONTRAINARc","author":[{"family":"Ar","given":"Traverse"}],"citation-key":"arSUSPENSIONTRAINARc","language":"fr","source":"Zotero","title":"SUSPENSION - TRAIN AR","type":"article-journal"},
   {"id":"avGEOMETRIETRAINS","author":[{"family":"Av","given":"Train"}],"citation-key":"avGEOMETRIETRAINS","language":"fr","source":"Zotero","title":"GÉOMÉTRIE DES TRAINS","type":"article-journal"},
   {"id":"avGEOMETRIETRAINSa","author":[{"family":"Av","given":"Train"}],"citation-key":"avGEOMETRIETRAINSa","language":"fr","source":"Zotero","title":"GÉOMÉTRIE DES TRAINS","type":"article-journal"},
-  {"id":"Fiat5002012","citation-key":"Fiat5002012","title":"Fiat 500 (2012) Repair Manual","type":"document"},
   {"id":"mlRAPPORTSTRANSMISSION","author":[{"family":"Ml","given":"Boîte"}],"citation-key":"mlRAPPORTSTRANSMISSION","language":"fr","source":"Zotero","title":"RAPPORTS DE TRANSMISSION","type":"article-journal"},
-  {"id":"mlRAPPORTSTRANSMISSIONa","author":[{"family":"Ml","given":"Boîte"}],"citation-key":"mlRAPPORTSTRANSMISSIONa","language":"fr","source":"Zotero","title":"RAPPORTS DE TRANSMISSION","type":"article-journal"},
-  {"id":"randallFordFocusDiesel2015","author":[{"family":"Randall","given":"Martynn"}],"citation-key":"randallFordFocusDiesel2015","ISBN":"978-0-85733-909-6","issued":{"date-parts":[["2015"]]},"language":"en","note":"OCLC: 1064177706","publisher":"Haynes Publishing","publisher-place":"Sparkford","source":"Open WorldCat","title":"Ford Focus diesel","type":"book"},
-  {"id":"randallFordFocusDiesel2015a","author":[{"family":"Randall","given":"Martynn"}],"citation-key":"randallFordFocusDiesel2015a","ISBN":"978-0-85733-909-6","issued":{"date-parts":[["2015"]]},"language":"en","note":"OCLC: 1064177706","publisher":"Haynes Publishing","publisher-place":"Sparkford","source":"Open WorldCat","title":"Ford Focus diesel","type":"book"}
+  {"id":"mlRAPPORTSTRANSMISSIONa","author":[{"family":"Ml","given":"Boîte"}],"citation-key":"mlRAPPORTSTRANSMISSIONa","language":"fr","source":"Zotero","title":"RAPPORTS DE TRANSMISSION","type":"article-journal"}
 ]

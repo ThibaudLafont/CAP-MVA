@@ -35,7 +35,7 @@ Lever une voiture en sécurité avec un pont deux colonnes
 3. Vérifier que la boite est au point mort
 4. Serrer le frein à main
 ### Mise en contact
-1. Placer les bras au niveau des points de levage
+1. Placer les bras au niveau des points de levage 
 2. Monter lentement le pont jusqu'au contact
 3. Vérifier que les 4 patins touchent correctement -> sinon descendre et recommencer
 ### Test de stabilité
