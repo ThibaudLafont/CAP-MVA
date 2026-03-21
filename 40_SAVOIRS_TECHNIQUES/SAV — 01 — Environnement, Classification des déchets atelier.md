@@ -29,6 +29,7 @@ Assurer la gestion correcte et légale des déchets produits en atelier.
 ### Obligations
 1. Étiquetage et tri
 2. [[40_SAVOIRS_TECHNIQUES/SAV — 01 — Environnement, Bordereau de suivi des déchets (BSD)|BSD]], si déchet dangereux
+3. **Si dangereux** : lieu ventilé, sous abri, 
 ### Contenants
 **Étiquetage obligatoire**
 - Huiles 
@@ -38,6 +39,8 @@ Assurer la gestion correcte et légale des déchets produits en atelier.
 - filtres
 - mastics, colles, peintures
 - diluants
+### Traitement
+Par entreprise et personnel qualifié
 ## Références
 - @CAPManuscrit
 - @EnvProM1P106

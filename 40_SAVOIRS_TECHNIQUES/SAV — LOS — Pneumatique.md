@@ -28,6 +28,14 @@ Le pneumatique se déforme au contact du sol afin d’assurer l’adhérence et 
 - structure : 
 	- **radiale** meilleure tenue de route, plus confortable, plus durable
 	- **diagonale** : plus robuste mais moins précise sur route
+- **bande de roulement** 
+	- *tout-terrain (MIT*) : sculptures profondes
+	- *slick* : lisse, compétition
+	- *contact* : pneu tendre, usure rapide 
+	- *hiver* : élasticité plus forte par temps froid
+- **air**
+	- *tubeless* : sans chambre à air, plus sécurisé en cas de crevaison, montage plus simple et plus sur
+	- *tubetype* : avec chambre à air, à plat en cas de crevaison, plus sensible au sous et sur gonflage
 ## À savoir par cœur
 - sculpture >= 1.6mm
 - durée de vie : 50 000km

@@ -7,11 +7,16 @@ source: zotero
 ## Objectif
 Structurer une intervention mécanique de manière sécurisée et professionnelle.
 ## Étapes d’une intervention
-
+### 0. Réception du véhicule
+- protéger l'habitacle et la carrosserie
 ### 1. Ordre de réparation (OR)
 [[40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Ordre de réparation (OR)|SAV — 01 — Atelier, Ordre de réparation (OR)]] : Document décrivant l’intervention à réaliser.
 ### 2. Préparation
 - consulter la documentation constructeur
+	- périodicités
+	- ingrédients
+	- pièces
+	- outils spécifiques
 - préparation de l’outillage
 - préparation des pièces
 - préparation des EPI
