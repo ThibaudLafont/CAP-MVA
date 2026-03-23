@@ -4,193 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "581e10fcd6e2763b",
+        "id": "e5c7c8f7489bc212",
         "type": "tabs",
         "children": [
           {
-            "id": "be9f450935dd2208",
+            "id": "91de5b1bd5e55ec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_PROCÉDURES/PROC — Atelier — Pont élévateur 2 colonnes.md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Chasse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROC — Atelier — Pont élévateur 2 colonnes"
+              "title": "SAV — 00 — Angle TR, Chasse"
             }
           },
           {
-            "id": "d9ba8352386239c2",
+            "id": "21ad37ee448462a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, zones et organisation.md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Parallélisme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — 01 — Atelier, zones et organisation"
+              "title": "SAV — 00 — Angle TR, Parallélisme"
             }
           },
           {
-            "id": "96bd6a7d84474349",
+            "id": "da8a2f3eb1852540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 01 — Environnement, Classification des déchets atelier.md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Pivot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — 01 — Environnement, Classification des déchets atelier"
+              "title": "SAV — 00 — Angle TR, Pivot"
             }
           },
           {
-            "id": "adeb73f7f5ff90b9",
+            "id": "e0ac8db058d546f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Déroulé d'une intervention.md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Carrossage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — 01 — Atelier, Déroulé d'une intervention"
+              "title": "SAV — 00 — Angle TR, Carrossage"
             }
           },
           {
-            "id": "5157350da5559593",
+            "id": "72364a973c3745ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Ordre de réparation (OR).md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Carrossage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — 01 — Atelier, Ordre de réparation (OR)"
+              "title": "SAV — 00 — Angle TR, Carrossage"
             }
           },
           {
-            "id": "0decd4d67a846595",
+            "id": "183f3d3914700f00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Pont de levage.md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Carrossage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — 01 — Atelier, Pont de levage"
+              "title": "SAV — 00 — Angle TR, Carrossage"
             }
           },
           {
-            "id": "8c14751d7d605b78",
+            "id": "41ea114b417c7b6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Ordre de réparation (OR).md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Pivot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAV — 01 — Atelier, Ordre de réparation (OR)"
-            }
-          },
-          {
-            "id": "c906c35e80751d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Document Unique d'Évaluation des Risques professionnels (DUER).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 01 — Atelier, Document Unique d'Évaluation des Risques professionnels (DUER)"
-            }
-          },
-          {
-            "id": "177e0160d980ae10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 01 — Fiche de Données de Sécurité (FDS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 01 — Fiche de Données de Sécurité (FDS)"
-            }
-          },
-          {
-            "id": "eb53bbd7b78988af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Règlement intérieur.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 01 — Atelier, Règlement intérieur"
-            }
-          },
-          {
-            "id": "864f649a589ae44a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Hygiène et santé.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 01 — Atelier, Hygiène et santé"
-            }
-          },
-          {
-            "id": "69265969bedfdcd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Contrôle technique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 00 — Contrôle technique"
-            }
-          },
-          {
-            "id": "5cd50ebd4a0d2b82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — LOS — Pneumatique, contrôle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — LOS — Pneumatique, contrôle"
+              "title": "SAV — 00 — Angle TR, Pivot"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -263,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_PROCÉDURES/PROC — LOS — Pneumatique, contrôle.md",
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Pivot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROC — LOS — Pneumatique, contrôle"
+              "title": "Backlinks for SAV — 00 — Angle TR, Pivot"
             }
           },
           {
@@ -375,10 +292,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5cd50ebd4a0d2b82",
+  "active": "da8a2f3eb1852540",
   "lastOpenFiles": [
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Contrôle technique.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angles TR.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Carrossage.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Inclus.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Pivot.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Chasse.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Parallélisme.md",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-2-x30-y134.png",
+    "00_ASSETS/ZOTERO/NOTES/LiaisonAuSol — M2 — P1.01 — Contrôle des éléments du train roulant.md",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-undefined-x625-y231.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-undefined-x427-y196.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-undefined-x34-y327.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-undefined-x231-y258.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-2-x429-y173.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-2-x151-y331.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101",
     "30_PROCÉDURES/PROC — LOS — Pneumatique, contrôle.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Contrôle technique.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Hygiène et santé.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — EPIs.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Ordre de réparation (OR).md",
@@ -397,32 +329,17 @@
     "40_SAVOIRS_TECHNIQUES/SAV — 01 — Environnement, Classification des déchets atelier.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Règles de sécurité systèmes pyrotechniques.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Règles de sécurité alimentation carburant.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, zones et organisation.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Environnement, Bordereau de suivi des déchets (BSD).md",
     "00_ASSETS/ZOTERO/zotero-Manuels constructeur-406.json",
-    "30_PROCÉDURES/PROC — Atelier — Pont élévateur 2 colonnes.md",
-    "20_DIAGNOSTIC/DIAG — Échappement, Fumée bleue.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — Pollution — EGR Interne.md",
-    "00_ASSETS/ZOTERO/FICHES/Compression et étanchéité des cylindres.md",
-    "30_PROCÉDURES/PROC — LOS — Rotule de direction, remplacement.md",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P121/LiaisonAuSolM1P121-4-x85-y593.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-7-x290-y99.png",
     "00_ASSETS/ZOTERO/zotero-ISO.json",
-    "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-5-x54-y496.png",
-    "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y432.png",
-    "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303/PollutionM1P303-3-x54-y163.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303",
-    "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM7P201/PollutionM7P201-undefined-x303-y289.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM7P201",
     "00_ASSETS/ZOTERO/zotero-Manuels constructeur-Ford Focus.json",
     "00_ASSETS/ZOTERO/zotero-Manuels constructeur-Fiat Punto.json",
-    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P121/LiaisonAuSolM1P121-undefined-x290-y393.png",
-    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P121/LiaisonAuSolM1P121-2-x83-y227.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P121",
-    "00_ASSETS/IMAGES/OLD/Bougie d'allumage.png",
     "00_ASSETS/IMAGES/OLD",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120",
-    "00_ASSETS/IMAGES/ZOTERO/1769078956000_EnvProM1P106",
     "Untitled.canvas"
   ]
 }
