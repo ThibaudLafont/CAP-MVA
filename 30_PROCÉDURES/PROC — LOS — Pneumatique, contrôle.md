@@ -27,7 +27,19 @@ source: zotero
 ## Valeurs attendues / Résultats
 -
 ## Interprétation
-- Résultat conforme :
-- Résultat non conforme :
+### De la bande de roulement
+
+| Bande de roulement               | Cause                     | Résolution                                                         |
+| -------------------------------- | ------------------------- | ------------------------------------------------------------------ |
+| Usure des bords                  | Sous-glonflage            | Regonfler                                                          |
+| Usure centre                     | Sur-gonflage              | Déglonfler                                                         |
+| Usure irrégulière                | Géométrie                 | Géométrie                                                          |
+| Usure en facettes ou vaguelettes | Géométrie<br>Amortisseurs | Diagnostic                                                         |
+| Usure régulière                  | /                         | <=1.6mm : remplacement obligatoire<br><=2.0mm : avec accord client |
+### Autre
+1. **Coupure à l'épaule** : toile touchée = changer pneumatique (principe de précaution en cas d'incertitude)
+2. **Déformations légères** : OK si radial
+3. **Hernie, bulle, boursouflure** : rupture d'un câble, à remplacer + vérifier la jante
 ## Références
 - @CAPManuscrit p.20
+- @CAPManuscrit p.30

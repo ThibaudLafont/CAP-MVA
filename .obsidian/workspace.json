@@ -50,6 +50,90 @@
             }
           },
           {
+            "id": "8c144045c9a63552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Contrôles périodiques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — 00 — Contrôles périodiques"
+            }
+          },
+          {
+            "id": "e7111cd184990b27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_PROCÉDURES/PROC — Refroidissement — Contrôle général.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROC — Refroidissement — Contrôle général"
+            }
+          },
+          {
+            "id": "798a42dbae9938d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Types de maintenance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — 00 — Types de maintenance"
+            }
+          },
+          {
+            "id": "82fab8870d40c903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_PROCÉDURES/PROC — 00 — Vérifications courantes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROC — 00 — Vérifications courantes"
+            }
+          },
+          {
+            "id": "cf86d7599a3587a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_DIAGNOSTIC/DIAG — Usure pneumatique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DIAG — Usure pneumatique"
+            }
+          },
+          {
+            "id": "7763a7bbbe65dce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_MAINTENANCE/MAINT — Éclairage — Contrôle et réglage des feux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAINT — Éclairage — Contrôle et réglage des feux"
+            }
+          },
+          {
             "id": "e0ac8db058d546f7",
             "type": "leaf",
             "state": {
@@ -106,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -163,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "fdff8c8760129284",
@@ -180,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Pivot.md",
+                "file": "20_DIAGNOSTIC/DIAG — Usure pneumatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SAV — 00 — Angle TR, Pivot"
+              "title": "Backlinks for DIAG — Usure pneumatique"
             }
           },
           {
@@ -292,12 +375,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da8a2f3eb1852540",
+  "active": "cf86d7599a3587a1",
   "lastOpenFiles": [
+    "30_PROCÉDURES/PROC — 00 — Vérifications courantes.md",
+    "20_DIAGNOSTIC/DIAG — Usure pneumatique.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Types de maintenance.md",
+    "30_PROCÉDURES/PROC — Refroidissement — Contrôle général.md",
+    "30_PROCÉDURES/PROC — Refroidissement — Contrôle étanchéité du circuit.md",
+    "30_PROCÉDURES/PROC — Refroidissement — Contrôle bouchon de vase d'expansion.md",
+    "30_PROCÉDURES/PROC — Refroidissement — Thermostat.md",
+    "30_PROCÉDURES/PROC — Refroidissement — Contrôle niveau et antigel LDR.md",
+    "30_PROCÉDURES/PROC — LOS — Pneumatique, contrôle.md",
+    "30_PROCÉDURES/PROC — LOS — organ.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Contrôles périodiques.md",
+    "10_MAINTENANCE/MAINT — Éclairage — Contrôle et réglage des feux.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Pivot.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angles TR.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Carrossage.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Inclus.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Pivot.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Chasse.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Parallélisme.md",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-2-x30-y134.png",
@@ -309,7 +404,6 @@
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-2-x429-y173.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-2-x151-y331.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101",
-    "30_PROCÉDURES/PROC — LOS — Pneumatique, contrôle.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Contrôle technique.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Hygiène et santé.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — EPIs.md",
@@ -317,18 +411,7 @@
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Mesure, types de mesure.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Planning.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Pont de levage.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — LOS — Pneumatique.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Déroulé d'une intervention.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Approvisionnement en pièces détachées.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Règlement intérieur.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Fiche de Données de Sécurité (FDS).md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Document Unique d'Évaluation des Risques professionnels (DUER).md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Pictogrammes.md",
     "00_ASSETS/IMAGES/pictogrammes.png",
-    "40_SAVOIRS_TECHNIQUES/SAV — Capteur — nom_capteur.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Environnement, Classification des déchets atelier.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Règles de sécurité systèmes pyrotechniques.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Règles de sécurité alimentation carburant.md",
     "00_ASSETS/ZOTERO/zotero-Manuels constructeur-406.json",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P121/LiaisonAuSolM1P121-4-x85-y593.png",
     "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-7-x290-y99.png",
