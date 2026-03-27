@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_DIAGNOSTIC/DIAG — Usure pneumatique.md",
+                "file": "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DIAG — Usure pneumatique"
+              "title": "DIAG — Moteur — Perte de puissance"
             }
           },
           {
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_DIAGNOSTIC/DIAG — Usure pneumatique.md",
+                "file": "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DIAG — Usure pneumatique"
+              "title": "Backlinks for DIAG — Moteur — Perte de puissance"
             }
           },
           {
@@ -377,8 +377,8 @@
   },
   "active": "cf86d7599a3587a1",
   "lastOpenFiles": [
-    "30_PROCÉDURES/PROC — 00 — Vérifications courantes.md",
     "20_DIAGNOSTIC/DIAG — Usure pneumatique.md",
+    "30_PROCÉDURES/PROC — 00 — Vérifications courantes.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Types de maintenance.md",
     "30_PROCÉDURES/PROC — Refroidissement — Contrôle général.md",
     "30_PROCÉDURES/PROC — Refroidissement — Contrôle étanchéité du circuit.md",

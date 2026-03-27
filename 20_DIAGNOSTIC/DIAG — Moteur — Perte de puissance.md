@@ -10,18 +10,26 @@ Perte de puissance
 ## Causes possibles (par ordre de probabilité)
 ### Admission
 - filtre à air sale
+- durites bouchées / écrasées
 - débitmètre
 - étanchéité (prise d’air)
 - défaillance EGR
 - turbo
 ### Carburant
+- filtre carburant
+- pompe à carburant
 - pression carburant
 ### Allumage / injection
 - ratés d’allumage
 - injecteur défectueux
+### Échappement
+- FAP ou catalyseur bouché
+- Vanne EGR
 ### Gestion moteur
 - mode dégradé
-- capteur erroné
+- capteur de débit d'air
+- capteur de pression (MAP)
+- capteur de pédale accélérateur
 ### Mécanique interne
 - compression insuffisante
 - défaut d’étanchéité
