@@ -8,174 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91de5b1bd5e55ec5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Chasse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 00 — Angle TR, Chasse"
-            }
-          },
-          {
-            "id": "21ad37ee448462a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Parallélisme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 00 — Angle TR, Parallélisme"
-            }
-          },
-          {
-            "id": "da8a2f3eb1852540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Pivot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 00 — Angle TR, Pivot"
-            }
-          },
-          {
-            "id": "8c144045c9a63552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Contrôles périodiques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 00 — Contrôles périodiques"
-            }
-          },
-          {
-            "id": "e7111cd184990b27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — Refroidissement — Contrôle général.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — Refroidissement — Contrôle général"
-            }
-          },
-          {
-            "id": "798a42dbae9938d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Types de maintenance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 00 — Types de maintenance"
-            }
-          },
-          {
-            "id": "82fab8870d40c903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_PROCÉDURES/PROC — 00 — Vérifications courantes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROC — 00 — Vérifications courantes"
-            }
-          },
-          {
-            "id": "cf86d7599a3587a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DIAG — Moteur — Perte de puissance"
-            }
-          },
-          {
-            "id": "7763a7bbbe65dce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_MAINTENANCE/MAINT — Éclairage — Contrôle et réglage des feux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MAINT — Éclairage — Contrôle et réglage des feux"
-            }
-          },
-          {
-            "id": "e0ac8db058d546f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Carrossage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 00 — Angle TR, Carrossage"
-            }
-          },
-          {
-            "id": "72364a973c3745ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Carrossage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 00 — Angle TR, Carrossage"
-            }
-          },
-          {
-            "id": "183f3d3914700f00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Carrossage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAV — 00 — Angle TR, Carrossage"
-            }
-          },
-          {
             "id": "41ea114b417c7b6a",
             "type": "leaf",
             "state": {
@@ -188,9 +20,79 @@
               "icon": "lucide-file",
               "title": "SAV — 00 — Angle TR, Pivot"
             }
+          },
+          {
+            "id": "b78377d9480f0038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — 00 — VIN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — 00 — VIN"
+            }
+          },
+          {
+            "id": "96ad894ba87f1a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_DIAGNOSTIC/DIAG — Usure pneumatique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DIAG — Usure pneumatique"
+            }
+          },
+          {
+            "id": "ba5752738e0b57fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_PROCÉDURES/PROC — LOS — Pneumatique, contrôle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROC — LOS — Pneumatique, contrôle"
+            }
+          },
+          {
+            "id": "7688b9d1a3383f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_PROCÉDURES/PROC — LOS — Pneumatique, contrôle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROC — LOS — Pneumatique, contrôle"
+            }
+          },
+          {
+            "id": "e3fb17570d22d3d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_SAVOIRS_TECHNIQUES/SAV — Corps — Carrosserie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAV — Corps — Carrosserie"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,7 +115,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -365,38 +267,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf86d7599a3587a1",
+  "active": "ba5752738e0b57fd",
   "lastOpenFiles": [
     "20_DIAGNOSTIC/DIAG — Usure pneumatique.md",
+    "30_PROCÉDURES/PROC — LOS — Pneumatique, contrôle.md",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P109/LiaisonAuSolM2P109-undefined-x52-y154.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P109",
+    "00_ASSETS/ZOTERO/NOTES/LiaisonAuSol — M2 — P1.09 — La surveillance de la pression des pneumatiques.md",
+    "10_MAINTENANCE/MAINT — Éclairage — Contrôle et réglage des feux.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Normes éclairage.md",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_SysElecM2P106/SysElecM2P106-undefined-x427-y165.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_SysElecM2P106",
+    "00_ASSETS/ZOTERO/NOTES/SysÉlec — M2 — P1.06 — Contrôle d’éclairage et de signalisation.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Types de véhicules.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Types de contrôles.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — VIN.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Corps — Carrosserie.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — Alimentation Diesel — Pompe HP.md",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_MetaM1P118/MetaM1P118-undefined-x121-y203.png",
+    "00_ASSETS/IMAGES/ZOTERO/1771338417000_MetaM1P118",
+    "00_ASSETS/ZOTERO/NOTES/Meta — M1 — P1.18 — Le numéro VIN et la plaque constructeur.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Pivot.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Carrossage.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angles TR.md",
+    "20_DIAGNOSTIC/DIAG — Moteur — Perte de puissance.md",
     "30_PROCÉDURES/PROC — 00 — Vérifications courantes.md",
     "40_SAVOIRS_TECHNIQUES/SAV — 00 — Types de maintenance.md",
     "30_PROCÉDURES/PROC — Refroidissement — Contrôle général.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Contrôles périodiques.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Parallélisme.md",
+    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Chasse.md",
+    "10_MAINTENANCE/MAINT — LOS — Géométrie.md",
     "30_PROCÉDURES/PROC — Refroidissement — Contrôle étanchéité du circuit.md",
     "30_PROCÉDURES/PROC — Refroidissement — Contrôle bouchon de vase d'expansion.md",
-    "30_PROCÉDURES/PROC — Refroidissement — Thermostat.md",
-    "30_PROCÉDURES/PROC — Refroidissement — Contrôle niveau et antigel LDR.md",
-    "30_PROCÉDURES/PROC — LOS — Pneumatique, contrôle.md",
-    "30_PROCÉDURES/PROC — LOS — organ.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Contrôles périodiques.md",
-    "10_MAINTENANCE/MAINT — Éclairage — Contrôle et réglage des feux.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Pivot.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angles TR.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Carrossage.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Inclus.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Chasse.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Angle TR, Parallélisme.md",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-2-x30-y134.png",
-    "00_ASSETS/ZOTERO/NOTES/LiaisonAuSol — M2 — P1.01 — Contrôle des éléments du train roulant.md",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-undefined-x625-y231.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-undefined-x427-y196.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-undefined-x34-y327.png",
@@ -404,25 +318,12 @@
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-2-x429-y173.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-2-x151-y331.png",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Contrôle technique.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Hygiène et santé.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — EPIs.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Ordre de réparation (OR).md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 00 — Mesure, types de mesure.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Planning.md",
-    "40_SAVOIRS_TECHNIQUES/SAV — 01 — Atelier, Pont de levage.md",
-    "00_ASSETS/IMAGES/pictogrammes.png",
     "00_ASSETS/ZOTERO/zotero-Manuels constructeur-406.json",
-    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P121/LiaisonAuSolM1P121-4-x85-y593.png",
-    "00_ASSETS/IMAGES/ZOTERO/20260122_172339/SysElecM2P306-7-x290-y99.png",
     "00_ASSETS/ZOTERO/zotero-ISO.json",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM1P303",
     "00_ASSETS/IMAGES/ZOTERO/1771338417000_PollutionM7P201",
     "00_ASSETS/ZOTERO/zotero-Manuels constructeur-Ford Focus.json",
     "00_ASSETS/ZOTERO/zotero-Manuels constructeur-Fiat Punto.json",
-    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P121",
-    "00_ASSETS/IMAGES/OLD",
-    "00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM1P120",
     "Untitled.canvas"
   ]
 }

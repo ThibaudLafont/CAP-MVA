@@ -9,25 +9,20 @@ objectif:
 source: zotero
 
 ---
-## Objectif de la procédure
--
 ## Points de vigilance
 ## Risques en cas de non-respect
 - **aquaplaning** : les sculptures ne peuvent plus évacuer l'eau située entre le pneu de la route. 
 	- un coin d'eau soulève la roue et la décolle de la route > emballement moteur et perte de contrôle
 	- aggravé par la quantité d'eau et la vitesse
-## Outillage nécessaire
--
 ## Étapes
 1. **Flancs** : coupures, craquelures, marques, déformations anormales (choc, usure)
 2. **Bande de roulement** : usure anormale, usure normale, corps étranger
 3. **Sculptures** : >1.6mm
-4. **Pression** : mesure à froid (- adhérence ; + usure ; + déformations)
+4. **Pression** : mesure à froid = <5km la dernière heure (- adhérence ; + usure ; + déformations)
 5. **Équilibre** : vibrations, tirage
-## Valeurs attendues / Résultats
--
 ## Interprétation
 ### De la bande de roulement
+![[00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P109/LiaisonAuSolM2P109-undefined-x52-y154.png]]
 
 | Bande de roulement               | Cause                     | Résolution                                                         |
 | -------------------------------- | ------------------------- | ------------------------------------------------------------------ |
@@ -41,5 +36,5 @@ source: zotero
 2. **Déformations légères** : OK si radial
 3. **Hernie, bulle, boursouflure** : rupture d'un câble, à remplacer + vérifier la jante
 ## Références
-- @CAPManuscrit p.20
-- @CAPManuscrit p.30
+- @CAPManuscrit p.20, 30, 35
+- @LiaisonAuSolM2P109

@@ -15,7 +15,7 @@ Permet de situer la position relative des trains par rapport à la caisse
 ## Principe de fonctionnement
 Les roues doivent se situer dans des valeurs précises pour assurer l'adhérence et la dirigibililité du véhicule
 ## À savoir par cœur
--
+![[00_ASSETS/IMAGES/ZOTERO/1771338417000_LiaisonAuSolM2P101/LiaisonAuSolM2P101-2-x429-y173.png]]
 ## Références
 - @LiaisonAuSolM2P101
 - @CAPManuscrit, p. 28-29

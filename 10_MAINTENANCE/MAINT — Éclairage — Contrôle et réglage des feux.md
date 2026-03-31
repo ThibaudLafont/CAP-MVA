@@ -43,6 +43,7 @@ source: zotero
 5. Contrôler l'alignement 
 6. Corriger si besoin à l'aide des vis de réglage jusqu'à réglage correcte
 ### Vérifier les feux
+![[00_ASSETS/IMAGES/ZOTERO/1771338417000_SysElecM2P106/SysElecM2P106-undefined-x427-y165.png|300]]
 #### Avant
 1. Feux de route
 2. Feux de position
